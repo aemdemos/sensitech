@@ -3,696 +3,6 @@
   "lastCrawled": "https://www.sensitech.com/",
   "urls": [
     {
-      "url": "https://www.sensitech.com/de/",
-      "source": "SITEMAPS",
-      "targetPath": "/de",
-      "id": "3774fed562ba5f6413793587f3d85227fb321fef"
-    },
-    {
-      "url": "https://www.sensitech.com/de/blog/",
-      "source": "SITEMAPS",
-      "targetPath": "/de/blog",
-      "id": "cdfb6cd6c833a595ed6293c00ae9b7a7ef8324f9"
-    },
-    {
-      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-animal-health-cold-chain-regulations.html",
-      "source": "SITEMAPS",
-      "targetPath": "/de/blog/blog-articles/blog-animal-health-cold-chain-regulations",
-      "id": "d10fff9e04db79921ba6460659da7364b30089b7"
-    },
-    {
-      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-animal-health.html",
-      "source": "SITEMAPS",
-      "targetPath": "/de/blog/blog-articles/blog-animal-health",
-      "id": "1945d5e2ec3199763500414439428b253b8c779f"
-    },
-    {
-      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-benefits-risks-datalogger-interoperability.html",
-      "source": "SITEMAPS",
-      "targetPath": "/de/blog/blog-articles/blog-benefits-risks-datalogger-interoperability",
-      "id": "893f1afc5d8584e7009bd866c6ee3d4dc81fb7d4"
-    },
-    {
-      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-cold-chain-issues-next-steps.html",
-      "source": "SITEMAPS",
-      "targetPath": "/de/blog/blog-articles/blog-cold-chain-issues-next-steps",
-      "id": "5504652016801e3bb29ef5bb19b3036de4bd5c54"
-    },
-    {
-      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-cold-chain-management-and-logistics.html",
-      "source": "SITEMAPS",
-      "targetPath": "/de/blog/blog-articles/blog-cold-chain-management-and-logistics",
-      "id": "e9f80541782e7b13b642e73ed82f553d1332738e"
-    },
-    {
-      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-cold-chain-management-clinical-trial-drugs.html",
-      "source": "SITEMAPS",
-      "targetPath": "/de/blog/blog-articles/blog-cold-chain-management-clinical-trial-drugs",
-      "id": "df7dcfa3f51d985b85ce6bd1c73e0e71e723d69e"
-    },
-    {
-      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-eu-gdp.html",
-      "source": "SITEMAPS",
-      "targetPath": "/de/blog/blog-articles/blog-eu-gdp",
-      "id": "fa9ad50cdd2f62453f23d5ac38de1a7fc10bffcd"
-    },
-    {
-      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-flu-vaccine-cold-chain.html",
-      "source": "SITEMAPS",
-      "targetPath": "/de/blog/blog-articles/blog-flu-vaccine-cold-chain",
-      "id": "2ba722d1c3f7c19526d2a79dfe37cf47ef9fd6e6"
-    },
-    {
-      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-four-steps-clinical-trial-pharma.html",
-      "source": "SITEMAPS",
-      "targetPath": "/de/blog/blog-articles/blog-four-steps-clinical-trial-pharma",
-      "id": "a41d1315f3f26b281977f085041998f8a61d3b2c"
-    },
-    {
-      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-four-steps-keeping-cold-chain-unbroken.html",
-      "source": "SITEMAPS",
-      "targetPath": "/de/blog/blog-articles/blog-four-steps-keeping-cold-chain-unbroken",
-      "id": "d43e04c4eeee0ae9f158a2fd6df5e7725c29b030"
-    },
-    {
-      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-fresh-cut-flowers.html",
-      "source": "SITEMAPS",
-      "targetPath": "/de/blog/blog-articles/blog-fresh-cut-flowers",
-      "id": "084f504c3f198288ad84593f42a5e6a6cd0671b1"
-    },
-    {
-      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-grocery-supply-chain-challenges.html",
-      "source": "SITEMAPS",
-      "targetPath": "/de/blog/blog-articles/blog-grocery-supply-chain-challenges",
-      "id": "0ac33b724fb6b4322cf42688b5ccc998bac245c8"
-    },
-    {
-      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-gxp-in-pharma.html",
-      "source": "SITEMAPS",
-      "targetPath": "/de/blog/blog-articles/blog-gxp-in-pharma",
-      "id": "729702758018bf4d973c97640cf3a86276980f2d"
-    },
-    {
-      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-ice-cream-sc-logistics.html",
-      "source": "SITEMAPS",
-      "targetPath": "/de/blog/blog-articles/blog-ice-cream-sc-logistics",
-      "id": "0dd4d40e79a15b009c7664b5c7942f587ea82837"
-    },
-    {
-      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-insulin-supply-chain.html",
-      "source": "SITEMAPS",
-      "targetPath": "/de/blog/blog-articles/blog-insulin-supply-chain",
-      "id": "dbe1460f1fa3e710d94ab5ca9252afd6dcfaf76a"
-    },
-    {
-      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-lpm-challenge-1-wheres-my-cargo.html",
-      "source": "SITEMAPS",
-      "targetPath": "/de/blog/blog-articles/blog-lpm-challenge-1-wheres-my-cargo",
-      "id": "5221373534ba408745ae4c99af4fc0aee9d1167e"
-    },
-    {
-      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-modified-atmosphere.html",
-      "source": "SITEMAPS",
-      "targetPath": "/de/blog/blog-articles/blog-modified-atmosphere",
-      "id": "f6079fbdc0fcc8cf76ec2964468c0da654efc096"
-    },
-    {
-      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-monitor-placement.html",
-      "source": "SITEMAPS",
-      "targetPath": "/de/blog/blog-articles/blog-monitor-placement",
-      "id": "24d57998782e89b819ae5c9955794ed3e35b1839"
-    },
-    {
-      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-pharma-cold-chain-monitoring.html",
-      "source": "SITEMAPS",
-      "targetPath": "/de/blog/blog-articles/blog-pharma-cold-chain-monitoring",
-      "id": "4528d9a8da43344c3b15cb95f61b7668e2ebd179"
-    },
-    {
-      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-pharmaceutical-warehouse-requirements.html",
-      "source": "SITEMAPS",
-      "targetPath": "/de/blog/blog-articles/blog-pharmaceutical-warehouse-requirements",
-      "id": "aeb3995f7e7e328dda8c8c433a55e4ba62c1f788"
-    },
-    {
-      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-rcatp.html",
-      "source": "SITEMAPS",
-      "targetPath": "/de/blog/blog-articles/blog-rcatp",
-      "id": "f2283fefcfb24e037e6bcca2622311cd208eb7cc"
-    },
-    {
-      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-reducing-food-waste.html",
-      "source": "SITEMAPS",
-      "targetPath": "/de/blog/blog-articles/blog-reducing-food-waste",
-      "id": "8a31dbf992cc123ebf326da64cc6930c1c19c8d0"
-    },
-    {
-      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-reducing-loss-cold-chain.html",
-      "source": "SITEMAPS",
-      "targetPath": "/de/blog/blog-articles/blog-reducing-loss-cold-chain",
-      "id": "540f5380c6d434a0fc7ce4685098795367ebc333"
-    },
-    {
-      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-reefer-temp-monitoring-challenges.html",
-      "source": "SITEMAPS",
-      "targetPath": "/de/blog/blog-articles/blog-reefer-temp-monitoring-challenges",
-      "id": "34e10eb334da591af97cb3be06aad79075f77276"
-    },
-    {
-      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-relative-humidity-key-to-fresh-produce.html",
-      "source": "SITEMAPS",
-      "targetPath": "/de/blog/blog-articles/blog-relative-humidity-key-to-fresh-produce",
-      "id": "79acb70c804b03b73b1e64eca8b2a20da9566762"
-    },
-    {
-      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-seafood-transportation-guide.html",
-      "source": "SITEMAPS",
-      "targetPath": "/de/blog/blog-articles/blog-seafood-transportation-guide",
-      "id": "1261025fbeeef5dd76efe679d4ada0d48466ba02"
-    },
-    {
-      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-sensitech-history-cold-chain.html",
-      "source": "SITEMAPS",
-      "targetPath": "/de/blog/blog-articles/blog-sensitech-history-cold-chain",
-      "id": "09fef93919dbf256b463cfffc659a3f2c00dd39d"
-    },
-    {
-      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-temp-controlled-med-storage-biomed-sppharma.html",
-      "source": "SITEMAPS",
-      "targetPath": "/de/blog/blog-articles/blog-temp-controlled-med-storage-biomed-sppharma",
-      "id": "d6bd2ce30cbb2fdddf6641c80ddcb17473426389"
-    },
-    {
-      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-thermal-mapping-case-study.html",
-      "source": "SITEMAPS",
-      "targetPath": "/de/blog/blog-articles/blog-thermal-mapping-case-study",
-      "id": "b19825cfe75375d20f1be4a7dae8216f8c23a821"
-    },
-    {
-      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-thermal-mapping.html",
-      "source": "SITEMAPS",
-      "targetPath": "/de/blog/blog-articles/blog-thermal-mapping",
-      "id": "8498e2477b15e848b53ca6b03a22139d091183f6"
-    },
-    {
-      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-transporting-warehousing-chocolates.html",
-      "source": "SITEMAPS",
-      "targetPath": "/de/blog/blog-articles/blog-transporting-warehousing-chocolates",
-      "id": "302a5cd529f504cef07d6d0b33e4cd1f91c2d0c7"
-    },
-    {
-      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-ultimate-guide-cold-chain-monitoring.html",
-      "source": "SITEMAPS",
-      "targetPath": "/de/blog/blog-articles/blog-ultimate-guide-cold-chain-monitoring",
-      "id": "b58ab45a4695a89b9cc42226830661584946abd8"
-    },
-    {
-      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-ultimate-guide-pharma-transport.html",
-      "source": "SITEMAPS",
-      "targetPath": "/de/blog/blog-articles/blog-ultimate-guide-pharma-transport",
-      "id": "a5ca1bf98eebaf6e1f868cfbe6711b11a366b336"
-    },
-    {
-      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-usp-1079-changes-to-know.html",
-      "source": "SITEMAPS",
-      "targetPath": "/de/blog/blog-articles/blog-usp-1079-changes-to-know",
-      "id": "a0f20eaabb055be39df1cd818835311ec8866c2a"
-    },
-    {
-      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-usp-regs.html",
-      "source": "SITEMAPS",
-      "targetPath": "/de/blog/blog-articles/blog-usp-regs",
-      "id": "7cf744eb1d31649dcc2db314de2ff6b377801f49"
-    },
-    {
-      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-vaccine-storage-ultimate-guide.html",
-      "source": "SITEMAPS",
-      "targetPath": "/de/blog/blog-articles/blog-vaccine-storage-ultimate-guide",
-      "id": "f8c12534f7f37ce1f2cb802c8ee66b91ba30553b"
-    },
-    {
-      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-warehouse-temperature-mapping-study.html",
-      "source": "SITEMAPS",
-      "targetPath": "/de/blog/blog-articles/blog-warehouse-temperature-mapping-study",
-      "id": "e1afd614232b2755765203efa5e67e8fb06419c7"
-    },
-    {
-      "url": "https://www.sensitech.com/de/blog/blog-articles/optimizing-supply-chain.html",
-      "source": "SITEMAPS",
-      "targetPath": "/de/blog/blog-articles/optimizing-supply-chain",
-      "id": "c0a2daab1689979f2bf83a04308f6a68f85ca9e8"
-    },
-    {
-      "url": "https://www.sensitech.com/de/brakebush/brakebush-training-registration",
-      "source": "SITEMAPS",
-      "targetPath": "/de/brakebush/brakebush-training-registration",
-      "id": "b55da7a5af53ceec0846dd2f0f496bda8761096d"
-    },
-    {
-      "url": "https://www.sensitech.com/de/branchen/",
-      "source": "SITEMAPS",
-      "targetPath": "/de/branchen",
-      "id": "a3eb5dd31b9b4c9575bb46d955703468923853c1"
-    },
-    {
-      "url": "https://www.sensitech.com/de/branchen/konsum-und-industrieguter/",
-      "source": "SITEMAPS",
-      "targetPath": "/de/branchen/konsum-und-industrieguter",
-      "id": "0a94e06e66a20988506aa3134076040e8f385955"
-    },
-    {
-      "url": "https://www.sensitech.com/de/branchen/lebensmittel/",
-      "source": "SITEMAPS",
-      "targetPath": "/de/branchen/lebensmittel",
-      "id": "44a90892f19020e88aa2709518e9a01abd844ed4"
-    },
-    {
-      "url": "https://www.sensitech.com/de/branchen/lebensmittel/losungen-lebensmittelindustrie/",
-      "source": "SITEMAPS",
-      "targetPath": "/de/branchen/lebensmittel/losungen-lebensmittelindustrie",
-      "id": "62589d8eacdb96a2791fa71293c0790b0ce89754"
-    },
-    {
-      "url": "https://www.sensitech.com/de/branchen/life-sciences/",
-      "source": "SITEMAPS",
-      "targetPath": "/de/branchen/life-sciences",
-      "id": "d3edc1cdbaf576a9140704ed6a3fbf929839a20d"
-    },
-    {
-      "url": "https://www.sensitech.com/de/branchen/life-sciences/geschaftslosungen-life-sciences/",
-      "source": "SITEMAPS",
-      "targetPath": "/de/branchen/life-sciences/geschaftslosungen-life-sciences",
-      "id": "5039b846ea277dbd231e542526773f3b6c41ac71"
-    },
-    {
-      "url": "https://www.sensitech.com/de/branchen/life-sciences/klinische-versuche/",
-      "source": "SITEMAPS",
-      "targetPath": "/de/branchen/life-sciences/klinische-versuche",
-      "id": "d999bee499c6ea8a6dfa59014ea9a924f213c115"
-    },
-    {
-      "url": "https://www.sensitech.com/de/branchen/life-sciences/tiergesundheitsprodukte/",
-      "source": "SITEMAPS",
-      "targetPath": "/de/branchen/life-sciences/tiergesundheitsprodukte",
-      "id": "2c45ca3186c1e9b8c3f657df1803ac8f1c310cfd"
-    },
-    {
-      "url": "https://www.sensitech.com/de/components/standard-components/cardcollection-w4-02",
-      "source": "SITEMAPS",
-      "targetPath": "/de/components/standard-components/cardcollection-w4-02",
-      "id": "d6ce1fd8a4379776bbfe735f476541bb33927199"
-    },
-    {
-      "url": "https://www.sensitech.com/de/components/standard-components/cardcollection-w4-03",
-      "source": "SITEMAPS",
-      "targetPath": "/de/components/standard-components/cardcollection-w4-03",
-      "id": "52adaf95f8c317375b72ee74bde7584eaf649ec9"
-    },
-    {
-      "url": "https://www.sensitech.com/de/components/standard-components/cardcollection-w4-04",
-      "source": "SITEMAPS",
-      "targetPath": "/de/components/standard-components/cardcollection-w4-04",
-      "id": "0ec0fd7e95d33d7951b8c101ce1649e0c864f052"
-    },
-    {
-      "url": "https://www.sensitech.com/de/components/standard-components/cardcollection-w4-05",
-      "source": "SITEMAPS",
-      "targetPath": "/de/components/standard-components/cardcollection-w4-05",
-      "id": "776c7276ba71dc98b692fce976f3a32c0c1099bb"
-    },
-    {
-      "url": "https://www.sensitech.com/de/components/standard-components/cardcollection-w4-06",
-      "source": "SITEMAPS",
-      "targetPath": "/de/components/standard-components/cardcollection-w4-06",
-      "id": "0434808152394778e548f61a68285c8a2dd96afb"
-    },
-    {
-      "url": "https://www.sensitech.com/de/components/standard-components/cardcollection-w4-07",
-      "source": "SITEMAPS",
-      "targetPath": "/de/components/standard-components/cardcollection-w4-07",
-      "id": "bc12ba56b07106a5a78721553d472710b5eb2add"
-    },
-    {
-      "url": "https://www.sensitech.com/de/components/standard-components/cardcollection-w4-08",
-      "source": "SITEMAPS",
-      "targetPath": "/de/components/standard-components/cardcollection-w4-08",
-      "id": "f8f4fc3de52a521d08ad2a8b77fa54261f730d15"
-    },
-    {
-      "url": "https://www.sensitech.com/de/components/standard-components/cardcollection-w4-09",
-      "source": "SITEMAPS",
-      "targetPath": "/de/components/standard-components/cardcollection-w4-09",
-      "id": "eaec7661a44375bab8a78ce8362fc103fd226f77"
-    },
-    {
-      "url": "https://www.sensitech.com/de/components/standard-components/cardcollection-w4-animation",
-      "source": "SITEMAPS",
-      "targetPath": "/de/components/standard-components/cardcollection-w4-animation",
-      "id": "bfc2bd8a2db18409cf1c6d4d95231ab20491f0e7"
-    },
-    {
-      "url": "https://www.sensitech.com/de/legal/mark-ownership/",
-      "source": "SITEMAPS",
-      "targetPath": "/de/legal/mark-ownership",
-      "id": "4512389cfda671eca4ea468cd6656242fda1e540"
-    },
-    {
-      "url": "https://www.sensitech.com/de/legal/privacy-notice/",
-      "source": "SITEMAPS",
-      "targetPath": "/de/legal/privacy-notice",
-      "id": "dce3a680f8a7aed9c16d23eafe916f92b30c2be7"
-    },
-    {
-      "url": "https://www.sensitech.com/de/legal/terms-and-conditions/",
-      "source": "SITEMAPS",
-      "targetPath": "/de/legal/terms-and-conditions",
-      "id": "7de09bc77f458aab6747da0651f1b5af2945534c"
-    },
-    {
-      "url": "https://www.sensitech.com/de/legal/terms-of-use/",
-      "source": "SITEMAPS",
-      "targetPath": "/de/legal/terms-of-use",
-      "id": "fc166a226b5930a3b0393b7984ba6562e79e89e9"
-    },
-    {
-      "url": "https://www.sensitech.com/de/losungen/",
-      "source": "SITEMAPS",
-      "targetPath": "/de/losungen",
-      "id": "ea91188a0a6c11eee6082f4cd90837bced741b89"
-    },
-    {
-      "url": "https://www.sensitech.com/de/losungen/kuhlkette/",
-      "source": "SITEMAPS",
-      "targetPath": "/de/losungen/kuhlkette",
-      "id": "6e95184362917e4c88c95c6dbe83c86ab10d9f96"
-    },
-    {
-      "url": "https://www.sensitech.com/de/losungen/kuhlkette/validierte-kuhlkette/",
-      "source": "SITEMAPS",
-      "targetPath": "/de/losungen/kuhlkette/validierte-kuhlkette",
-      "id": "1e86521cbf5c85bd45b50b975fd15f2007e685a4"
-    },
-    {
-      "url": "https://www.sensitech.com/de/losungen/life-sciences-real-time/",
-      "source": "SITEMAPS",
-      "targetPath": "/de/losungen/life-sciences-real-time",
-      "id": "3af162283032b0ac6dd685178e9db2ec1ad23e97"
-    },
-    {
-      "url": "https://www.sensitech.com/de/losungen/logistikleistung/",
-      "source": "SITEMAPS",
-      "targetPath": "/de/losungen/logistikleistung",
-      "id": "1ccb1a62f398bbec8bcd0c85a0b1fc19c79e727d"
-    },
-    {
-      "url": "https://www.sensitech.com/de/losungen/lynx-logix/",
-      "source": "SITEMAPS",
-      "targetPath": "/de/losungen/lynx-logix",
-      "id": "223e9350fb2b5e1fe0f6e98ea66ea89753294fcb"
-    },
-    {
-      "url": "https://www.sensitech.com/de/nachhaltigkeit/",
-      "source": "SITEMAPS",
-      "targetPath": "/de/nachhaltigkeit",
-      "id": "de7db3c08c2f77923b93cd10f0f3716bb144d945"
-    },
-    {
-      "url": "https://www.sensitech.com/de/nachhaltigkeit/Takeback/",
-      "source": "SITEMAPS",
-      "targetPath": "/de/nachhaltigkeit/takeback",
-      "id": "4dbae0aa7514591fd101d66002870554eeb4a222"
-    },
-    {
-      "url": "https://www.sensitech.com/de/produkte/",
-      "source": "SITEMAPS",
-      "targetPath": "/de/produkte",
-      "id": "a99bf67b051d823ebca37a76c45a70f383a8b35f"
-    },
-    {
-      "url": "https://www.sensitech.com/de/produkte/anzeigen/",
-      "source": "SITEMAPS",
-      "targetPath": "/de/produkte/anzeigen",
-      "id": "294ab522682e7a46890b4a58dfa7cd24466a6cb2"
-    },
-    {
-      "url": "https://www.sensitech.com/de/produkte/datenlogger/",
-      "source": "SITEMAPS",
-      "targetPath": "/de/produkte/datenlogger",
-      "id": "0021ea4423314586819300c06763bb1291969794"
-    },
-    {
-      "url": "https://www.sensitech.com/de/produkte/datenlogger/drahtlose/",
-      "source": "SITEMAPS",
-      "targetPath": "/de/produkte/datenlogger/drahtlose",
-      "id": "2c0d14cd0e1a4e175aa34224827566b65526092f"
-    },
-    {
-      "url": "https://www.sensitech.com/de/produkte/datenlogger/echtzeit/",
-      "source": "SITEMAPS",
-      "targetPath": "/de/produkte/datenlogger/echtzeit",
-      "id": "1bea707f083a1e81e540e8c4e5cd72262eea2396"
-    },
-    {
-      "url": "https://www.sensitech.com/de/produkte/datenlogger/konventionelle/",
-      "source": "SITEMAPS",
-      "targetPath": "/de/produkte/datenlogger/konventionelle",
-      "id": "03b4d93a96505307519ccf6c66e0a86d46b06ab9"
-    },
-    {
-      "url": "https://www.sensitech.com/de/produkte/datenlogger/streifenschreiber/",
-      "source": "SITEMAPS",
-      "targetPath": "/de/produkte/datenlogger/streifenschreiber",
-      "id": "981dffca0ca3db804f1ceb23fca948191b665e8d"
-    },
-    {
-      "url": "https://www.sensitech.com/de/produkte/datenlogger/zubehor/",
-      "source": "SITEMAPS",
-      "targetPath": "/de/produkte/datenlogger/zubehor",
-      "id": "87fbefe535039165aadbb81ffd78a2ff602c72f7"
-    },
-    {
-      "url": "https://www.sensitech.com/de/produkte/mobile/",
-      "source": "SITEMAPS",
-      "targetPath": "/de/produkte/mobile",
-      "id": "98bb1cb3e2f6b570cdbd4114ea1d4d87094b2dc9"
-    },
-    {
-      "url": "https://www.sensitech.com/de/produkte/sensiwatch-plattform/",
-      "source": "SITEMAPS",
-      "targetPath": "/de/produkte/sensiwatch-plattform",
-      "id": "781fe3662c2ad9ae1df786ebb90ad9f9d4b0ad06"
-    },
-    {
-      "url": "https://www.sensitech.com/de/produkte/softwareanwendungen/",
-      "source": "SITEMAPS",
-      "targetPath": "/de/produkte/softwareanwendungen",
-      "id": "d0cbc66e9d3f88bd2d430de2b6c3c14ac164d8d8"
-    },
-    {
-      "url": "https://www.sensitech.com/de/produkte/stationare/",
-      "source": "SITEMAPS",
-      "targetPath": "/de/produkte/stationare",
-      "id": "1e597f5f16c27d604d6cc910a97f9e84a9fecb08"
-    },
-    {
-      "url": "https://www.sensitech.com/de/ressourcen/",
-      "source": "SITEMAPS",
-      "targetPath": "/de/ressourcen",
-      "id": "11bc013a4fbc53cc51dce30816d1b8da2d6c5bff"
-    },
-    {
-      "url": "https://www.sensitech.com/de/ressourcen/fallstudien/",
-      "source": "SITEMAPS",
-      "targetPath": "/de/ressourcen/fallstudien",
-      "id": "f68111d7daa6da74a5a147617921002a75425802"
-    },
-    {
-      "url": "https://www.sensitech.com/de/ressourcen/gerateruckgabeprogramm/",
-      "source": "SITEMAPS",
-      "targetPath": "/de/ressourcen/gerateruckgabeprogramm",
-      "id": "90cbb99000e965a967f5298b62a0f919a85675a1"
-    },
-    {
-      "url": "https://www.sensitech.com/de/ressourcen/iata-regulatorische-bulletins/",
-      "source": "SITEMAPS",
-      "targetPath": "/de/ressourcen/iata-regulatorische-bulletins",
-      "id": "ff1f2c4ad6db2963e65d66c6add7607f18d9f2d8"
-    },
-    {
-      "url": "https://www.sensitech.com/de/ressourcen/nachrichten/",
-      "source": "SITEMAPS",
-      "targetPath": "/de/ressourcen/nachrichten",
-      "id": "263fbd981529ad161ed79a98f62f4ba701bb0858"
-    },
-    {
-      "url": "https://www.sensitech.com/de/ressourcen/nachrichten/news-article/2022-02-01-temptale-ultra-ble.html",
-      "source": "SITEMAPS",
-      "targetPath": "/de/ressourcen/nachrichten/news-article/2022-02-01-temptale-ultra-ble",
-      "id": "8142ec1124f7894bdb3d72ff5a143e552edbdcfc"
-    },
-    {
-      "url": "https://www.sensitech.com/de/ressourcen/nachrichten/news-article/2023-04-20-sensitech-attends-logipharma.html",
-      "source": "SITEMAPS",
-      "targetPath": "/de/ressourcen/nachrichten/news-article/2023-04-20-sensitech-attends-logipharma",
-      "id": "4613603ff161059b98ab2f11dd11df35c0d65b78"
-    },
-    {
-      "url": "https://www.sensitech.com/de/ressourcen/nachrichten/news-article/2023-10-04-sensitech-unveils-lynx-logix.html",
-      "source": "SITEMAPS",
-      "targetPath": "/de/ressourcen/nachrichten/news-article/2023-10-04-sensitech-unveils-lynx-logix",
-      "id": "494845f874909980c8d44662cf36818317a97f04"
-    },
-    {
-      "url": "https://www.sensitech.com/de/ressourcen/nachrichten/news-article/2023-11-16-sensiwatch-platform.html",
-      "source": "SITEMAPS",
-      "targetPath": "/de/ressourcen/nachrichten/news-article/2023-11-16-sensiwatch-platform",
-      "id": "f812c97337db938e81ee7843de6cf8ea06b6836b"
-    },
-    {
-      "url": "https://www.sensitech.com/de/ressourcen/nachrichten/news-article/2024-02-20-temptale-geo-x.html",
-      "source": "SITEMAPS",
-      "targetPath": "/de/ressourcen/nachrichten/news-article/2024-02-20-temptale-geo-x",
-      "id": "1792df69d1a09c832fff30847e59ab849331a11f"
-    },
-    {
-      "url": "https://www.sensitech.com/de/ressourcen/nachrichten/news-article/2024-06-17-berlinger-acquisition.html",
-      "source": "SITEMAPS",
-      "targetPath": "/de/ressourcen/nachrichten/news-article/2024-06-17-berlinger-acquisition",
-      "id": "03cb5d1692887e7193e71bd7b86adeefcf1ccd80"
-    },
-    {
-      "url": "https://www.sensitech.com/de/ressourcen/nachrichten/news-article/2024-08-02-berlinger-acquisition-completion.html",
-      "source": "SITEMAPS",
-      "targetPath": "/de/ressourcen/nachrichten/news-article/2024-08-02-berlinger-acquisition-completion",
-      "id": "5f36ca4003fc167c783bcb00c0571f8e96b37f72"
-    },
-    {
-      "url": "https://www.sensitech.com/de/ressourcen/produktbulletins/",
-      "source": "SITEMAPS",
-      "targetPath": "/de/ressourcen/produktbulletins",
-      "id": "55dd1ea533c5d1ee30a15fde23a86bbe9ef98d1a"
-    },
-    {
-      "url": "https://www.sensitech.com/de/ressourcen/softwarezugriff-in-echtzeit/",
-      "source": "SITEMAPS",
-      "targetPath": "/de/ressourcen/softwarezugriff-in-echtzeit",
-      "id": "435eeb5e23a94a332f3b4890f835506dd92db511"
-    },
-    {
-      "url": "https://www.sensitech.com/de/ressourcen/technische-hinweise/",
-      "source": "SITEMAPS",
-      "targetPath": "/de/ressourcen/technische-hinweise",
-      "id": "b37e20aaff7246aec6c2d4932fa98651426e5195"
-    },
-    {
-      "url": "https://www.sensitech.com/de/ressourcen/veranstaltungen/",
-      "source": "SITEMAPS",
-      "targetPath": "/de/ressourcen/veranstaltungen",
-      "id": "99b0d06d04a636089dc104e37562c4757dbbc827"
-    },
-    {
-      "url": "https://www.sensitech.com/de/sitemap/",
-      "source": "SITEMAPS",
-      "targetPath": "/de/sitemap",
-      "id": "c8cbaa274a3bb15262c511801d50dcbbecfe8593"
-    },
-    {
-      "url": "https://www.sensitech.com/de/Subway/ipc-subway-training-registration",
-      "source": "SITEMAPS",
-      "targetPath": "/de/subway/ipc-subway-training-registration",
-      "id": "4f5176a3c74299098b78499e3046297b6cac7226"
-    },
-    {
-      "url": "https://www.sensitech.com/de/uber-uns/",
-      "source": "SITEMAPS",
-      "targetPath": "/de/uber-uns",
-      "id": "1d4d72e33cea3f507ebf1725cafac7337d895538"
-    },
-    {
-      "url": "https://www.sensitech.com/de/uber-uns/engagement-fur-die-umwelt/",
-      "source": "SITEMAPS",
-      "targetPath": "/de/uber-uns/engagement-fur-die-umwelt",
-      "id": "48b91a2e29f921e5e69a0845e6c306caeafbb67e"
-    },
-    {
-      "url": "https://www.sensitech.com/de/uber-uns/karriere/",
-      "source": "SITEMAPS",
-      "targetPath": "/de/uber-uns/karriere",
-      "id": "91153484220033a27bab38f8956e615de142862a"
-    },
-    {
-      "url": "https://www.sensitech.com/de/uber-uns/kontaktiere-uns/",
-      "source": "SITEMAPS",
-      "targetPath": "/de/uber-uns/kontaktiere-uns",
-      "id": "234d439fe2bec7937f947d5f8e50b7bea892aed0"
-    },
-    {
-      "url": "https://www.sensitech.com/de/uber-uns/kontaktiere-uns/locations",
-      "source": "SITEMAPS",
-      "targetPath": "/de/uber-uns/kontaktiere-uns/locations",
-      "id": "4ce1bd979df227a1f9d24de4caa596a0b84c86b9"
-    },
-    {
-      "url": "https://www.sensitech.com/de/uber-uns/qualitatszertifizierungen/",
-      "source": "SITEMAPS",
-      "targetPath": "/de/uber-uns/qualitatszertifizierungen",
-      "id": "954a5cd38567522418ab140b5cbc1a55b7b08ce2"
-    },
-    {
-      "url": "https://www.sensitech.com/de/unterstutzung/",
-      "source": "SITEMAPS",
-      "targetPath": "/de/unterstutzung",
-      "id": "f350dc4e6d76704c6ce86093ed82a09b14415f18"
-    },
-    {
-      "url": "https://www.sensitech.com/de/unterstutzung/benutzerhandbucher/",
-      "source": "SITEMAPS",
-      "targetPath": "/de/unterstutzung/benutzerhandbucher",
-      "id": "692df693cc1da3b10f7a3c3cf7c0cc23a47a9106"
-    },
-    {
-      "url": "https://www.sensitech.com/de/unterstutzung/downloads/",
-      "source": "SITEMAPS",
-      "targetPath": "/de/unterstutzung/downloads",
-      "id": "e5fd38861678d0cc6f5a00f50697731d6af48fad"
-    },
-    {
-      "url": "https://www.sensitech.com/de/unterstutzung/faqs/",
-      "source": "SITEMAPS",
-      "targetPath": "/de/unterstutzung/faqs",
-      "id": "1c7ec54df2f0fb4aab759ec4ffbe7b0a0feafeeb"
-    },
-    {
-      "url": "https://www.sensitech.com/de/wendys/webinar",
-      "source": "SITEMAPS",
-      "targetPath": "/de/wendys/webinar",
-      "id": "b87905c163926373fc24d497b2349b3b5a09ae69"
-    },
-    {
-      "url": "https://www.sensitech.com/de/wendys/wendys-2024-cold-chain-webinar-registration",
-      "source": "SITEMAPS",
-      "targetPath": "/de/wendys/wendys-2024-cold-chain-webinar-registration",
-      "id": "486046ed3bebb7459b4892badd9c95feae59cbe9"
-    },
-    {
-      "url": "https://www.sensitech.com/de/wendys/wendys-dc-training",
-      "source": "SITEMAPS",
-      "targetPath": "/de/wendys/wendys-dc-training",
-      "id": "41c75a0d5fc080b1228667a2923957582d72d5cc"
-    },
-    {
-      "url": "https://www.sensitech.com/de/wendys/wendys-supplier-training",
-      "source": "SITEMAPS",
-      "targetPath": "/de/wendys/wendys-supplier-training",
-      "id": "8482880d85689f1bd9ba3c46b308a3fcb20391ed"
-    },
-    {
-      "url": "https://www.sensitech.com/de/yum-brands/yum-brands-training-registration",
-      "source": "SITEMAPS",
-      "targetPath": "/de/yum-brands/yum-brands-training-registration",
-      "id": "956b689fdfaf6b4cb26f680160cdcb1ca8d1a2dc"
-    },
-    {
       "url": "https://www.sensitech.com/en/",
       "source": "SITEMAPS",
       "targetPath": "/en",
@@ -1615,6 +925,836 @@
       "source": "SITEMAPS",
       "targetPath": "/en/yum-brands/yum-brands-training-registration",
       "id": "c28a01a6d5ae3368a96f5b0c6b9d4c660c0fe70b"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "SITEMAPS",
+    "logger": {}
+  },
+  "extractionErrors": [
+    {
+      "url": "https://www.sensitech.com/en/resources/news/news-article/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.sensitech.com/en/blog/blog-articles/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.sensitech.com/it/chi-siamo/contattaci/directions/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.sensitech.com/it/risorse/notizie/news-article/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.sensitech.com/it/risorse/eventi/2023/asia-fruit-logistica-2023",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.sensitech.com/it/blog/blog-articles/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.sensitech.com/fr/a-propos-de-Sensitech/nous-contacter/directions/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.sensitech.com/fr/ressources/actualites/news-article/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.sensitech.com/fr/ressources/evenements/2023/asia-fruit-logistica-2023",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.sensitech.com/fr/blog/blog-articles/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.sensitech.com/es/recursos/boletines-de-productos/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.sensitech.com/es/recursos/boletines-regulatorios-iata/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.sensitech.com/es/recursos/noticias/news-article/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.sensitech.com/es/blog/blog-articles/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.sensitech.com/de/ressourcen/nachrichten/news-article/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.sensitech.com/de/ressourcen/nachrichten/news-article/2022_02_07-sensitech-monitors-temperature-in-sealed-packages.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.sensitech.com/de/ressourcen/veranstaltungen/2023/asia-fruit-logistica-2023",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.sensitech.com/de/blog/blog-articles/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.sensitech.com/en/resources/news/news-article/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.sensitech.com/en/blog/blog-articles/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.sensitech.com/pt/recursos/novidades/news-article/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.sensitech.com/pt/recursos/eventos/events-articles/2023_06_05-hort-connections.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.sensitech.com/pt/recursos/eventos/2023/asia-fruit-logistica-2023",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.sensitech.com/pt/blog/blog-articles/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.sensitech.com/zh/resources/news/news-article/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.sensitech.com/zh/resources/events/2023/asia-fruit-logistica-2023",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.sensitech.com/zh/blog/blog-articles/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.sensitech.com/jp/about-us/contact-us/directions/",
+      "status": "500 Internal Server Error"
+    },
+    {
+      "url": "https://www.sensitech.com/jp/resources/news/news-article/",
+      "status": "500 Internal Server Error"
+    },
+    {
+      "url": "https://www.sensitech.com/jp/resources/events/2023/asia-fruit-logistica-2023",
+      "status": "500 Internal Server Error"
+    },
+    {
+      "url": "https://www.sensitech.com/jp/blog/blog-articles/",
+      "status": "500 Internal Server Error"
+    },
+    {
+      "url": "https://www.sensitech.com/sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.sensitech.com/sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Content-Type: text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.sensitech.com/de/",
+      "source": "SITEMAPS",
+      "targetPath": "/de",
+      "id": "3774fed562ba5f6413793587f3d85227fb321fef"
+    },
+    {
+      "url": "https://www.sensitech.com/de/blog/",
+      "source": "SITEMAPS",
+      "targetPath": "/de/blog",
+      "id": "cdfb6cd6c833a595ed6293c00ae9b7a7ef8324f9"
+    },
+    {
+      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-animal-health-cold-chain-regulations.html",
+      "source": "SITEMAPS",
+      "targetPath": "/de/blog/blog-articles/blog-animal-health-cold-chain-regulations",
+      "id": "d10fff9e04db79921ba6460659da7364b30089b7"
+    },
+    {
+      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-animal-health.html",
+      "source": "SITEMAPS",
+      "targetPath": "/de/blog/blog-articles/blog-animal-health",
+      "id": "1945d5e2ec3199763500414439428b253b8c779f"
+    },
+    {
+      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-benefits-risks-datalogger-interoperability.html",
+      "source": "SITEMAPS",
+      "targetPath": "/de/blog/blog-articles/blog-benefits-risks-datalogger-interoperability",
+      "id": "893f1afc5d8584e7009bd866c6ee3d4dc81fb7d4"
+    },
+    {
+      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-cold-chain-issues-next-steps.html",
+      "source": "SITEMAPS",
+      "targetPath": "/de/blog/blog-articles/blog-cold-chain-issues-next-steps",
+      "id": "5504652016801e3bb29ef5bb19b3036de4bd5c54"
+    },
+    {
+      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-cold-chain-management-and-logistics.html",
+      "source": "SITEMAPS",
+      "targetPath": "/de/blog/blog-articles/blog-cold-chain-management-and-logistics",
+      "id": "e9f80541782e7b13b642e73ed82f553d1332738e"
+    },
+    {
+      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-cold-chain-management-clinical-trial-drugs.html",
+      "source": "SITEMAPS",
+      "targetPath": "/de/blog/blog-articles/blog-cold-chain-management-clinical-trial-drugs",
+      "id": "df7dcfa3f51d985b85ce6bd1c73e0e71e723d69e"
+    },
+    {
+      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-eu-gdp.html",
+      "source": "SITEMAPS",
+      "targetPath": "/de/blog/blog-articles/blog-eu-gdp",
+      "id": "fa9ad50cdd2f62453f23d5ac38de1a7fc10bffcd"
+    },
+    {
+      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-flu-vaccine-cold-chain.html",
+      "source": "SITEMAPS",
+      "targetPath": "/de/blog/blog-articles/blog-flu-vaccine-cold-chain",
+      "id": "2ba722d1c3f7c19526d2a79dfe37cf47ef9fd6e6"
+    },
+    {
+      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-four-steps-clinical-trial-pharma.html",
+      "source": "SITEMAPS",
+      "targetPath": "/de/blog/blog-articles/blog-four-steps-clinical-trial-pharma",
+      "id": "a41d1315f3f26b281977f085041998f8a61d3b2c"
+    },
+    {
+      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-four-steps-keeping-cold-chain-unbroken.html",
+      "source": "SITEMAPS",
+      "targetPath": "/de/blog/blog-articles/blog-four-steps-keeping-cold-chain-unbroken",
+      "id": "d43e04c4eeee0ae9f158a2fd6df5e7725c29b030"
+    },
+    {
+      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-fresh-cut-flowers.html",
+      "source": "SITEMAPS",
+      "targetPath": "/de/blog/blog-articles/blog-fresh-cut-flowers",
+      "id": "084f504c3f198288ad84593f42a5e6a6cd0671b1"
+    },
+    {
+      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-grocery-supply-chain-challenges.html",
+      "source": "SITEMAPS",
+      "targetPath": "/de/blog/blog-articles/blog-grocery-supply-chain-challenges",
+      "id": "0ac33b724fb6b4322cf42688b5ccc998bac245c8"
+    },
+    {
+      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-gxp-in-pharma.html",
+      "source": "SITEMAPS",
+      "targetPath": "/de/blog/blog-articles/blog-gxp-in-pharma",
+      "id": "729702758018bf4d973c97640cf3a86276980f2d"
+    },
+    {
+      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-ice-cream-sc-logistics.html",
+      "source": "SITEMAPS",
+      "targetPath": "/de/blog/blog-articles/blog-ice-cream-sc-logistics",
+      "id": "0dd4d40e79a15b009c7664b5c7942f587ea82837"
+    },
+    {
+      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-insulin-supply-chain.html",
+      "source": "SITEMAPS",
+      "targetPath": "/de/blog/blog-articles/blog-insulin-supply-chain",
+      "id": "dbe1460f1fa3e710d94ab5ca9252afd6dcfaf76a"
+    },
+    {
+      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-lpm-challenge-1-wheres-my-cargo.html",
+      "source": "SITEMAPS",
+      "targetPath": "/de/blog/blog-articles/blog-lpm-challenge-1-wheres-my-cargo",
+      "id": "5221373534ba408745ae4c99af4fc0aee9d1167e"
+    },
+    {
+      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-modified-atmosphere.html",
+      "source": "SITEMAPS",
+      "targetPath": "/de/blog/blog-articles/blog-modified-atmosphere",
+      "id": "f6079fbdc0fcc8cf76ec2964468c0da654efc096"
+    },
+    {
+      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-monitor-placement.html",
+      "source": "SITEMAPS",
+      "targetPath": "/de/blog/blog-articles/blog-monitor-placement",
+      "id": "24d57998782e89b819ae5c9955794ed3e35b1839"
+    },
+    {
+      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-pharma-cold-chain-monitoring.html",
+      "source": "SITEMAPS",
+      "targetPath": "/de/blog/blog-articles/blog-pharma-cold-chain-monitoring",
+      "id": "4528d9a8da43344c3b15cb95f61b7668e2ebd179"
+    },
+    {
+      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-pharmaceutical-warehouse-requirements.html",
+      "source": "SITEMAPS",
+      "targetPath": "/de/blog/blog-articles/blog-pharmaceutical-warehouse-requirements",
+      "id": "aeb3995f7e7e328dda8c8c433a55e4ba62c1f788"
+    },
+    {
+      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-rcatp.html",
+      "source": "SITEMAPS",
+      "targetPath": "/de/blog/blog-articles/blog-rcatp",
+      "id": "f2283fefcfb24e037e6bcca2622311cd208eb7cc"
+    },
+    {
+      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-reducing-food-waste.html",
+      "source": "SITEMAPS",
+      "targetPath": "/de/blog/blog-articles/blog-reducing-food-waste",
+      "id": "8a31dbf992cc123ebf326da64cc6930c1c19c8d0"
+    },
+    {
+      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-reducing-loss-cold-chain.html",
+      "source": "SITEMAPS",
+      "targetPath": "/de/blog/blog-articles/blog-reducing-loss-cold-chain",
+      "id": "540f5380c6d434a0fc7ce4685098795367ebc333"
+    },
+    {
+      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-reefer-temp-monitoring-challenges.html",
+      "source": "SITEMAPS",
+      "targetPath": "/de/blog/blog-articles/blog-reefer-temp-monitoring-challenges",
+      "id": "34e10eb334da591af97cb3be06aad79075f77276"
+    },
+    {
+      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-relative-humidity-key-to-fresh-produce.html",
+      "source": "SITEMAPS",
+      "targetPath": "/de/blog/blog-articles/blog-relative-humidity-key-to-fresh-produce",
+      "id": "79acb70c804b03b73b1e64eca8b2a20da9566762"
+    },
+    {
+      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-seafood-transportation-guide.html",
+      "source": "SITEMAPS",
+      "targetPath": "/de/blog/blog-articles/blog-seafood-transportation-guide",
+      "id": "1261025fbeeef5dd76efe679d4ada0d48466ba02"
+    },
+    {
+      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-sensitech-history-cold-chain.html",
+      "source": "SITEMAPS",
+      "targetPath": "/de/blog/blog-articles/blog-sensitech-history-cold-chain",
+      "id": "09fef93919dbf256b463cfffc659a3f2c00dd39d"
+    },
+    {
+      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-temp-controlled-med-storage-biomed-sppharma.html",
+      "source": "SITEMAPS",
+      "targetPath": "/de/blog/blog-articles/blog-temp-controlled-med-storage-biomed-sppharma",
+      "id": "d6bd2ce30cbb2fdddf6641c80ddcb17473426389"
+    },
+    {
+      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-thermal-mapping-case-study.html",
+      "source": "SITEMAPS",
+      "targetPath": "/de/blog/blog-articles/blog-thermal-mapping-case-study",
+      "id": "b19825cfe75375d20f1be4a7dae8216f8c23a821"
+    },
+    {
+      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-thermal-mapping.html",
+      "source": "SITEMAPS",
+      "targetPath": "/de/blog/blog-articles/blog-thermal-mapping",
+      "id": "8498e2477b15e848b53ca6b03a22139d091183f6"
+    },
+    {
+      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-transporting-warehousing-chocolates.html",
+      "source": "SITEMAPS",
+      "targetPath": "/de/blog/blog-articles/blog-transporting-warehousing-chocolates",
+      "id": "302a5cd529f504cef07d6d0b33e4cd1f91c2d0c7"
+    },
+    {
+      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-ultimate-guide-cold-chain-monitoring.html",
+      "source": "SITEMAPS",
+      "targetPath": "/de/blog/blog-articles/blog-ultimate-guide-cold-chain-monitoring",
+      "id": "b58ab45a4695a89b9cc42226830661584946abd8"
+    },
+    {
+      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-ultimate-guide-pharma-transport.html",
+      "source": "SITEMAPS",
+      "targetPath": "/de/blog/blog-articles/blog-ultimate-guide-pharma-transport",
+      "id": "a5ca1bf98eebaf6e1f868cfbe6711b11a366b336"
+    },
+    {
+      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-usp-1079-changes-to-know.html",
+      "source": "SITEMAPS",
+      "targetPath": "/de/blog/blog-articles/blog-usp-1079-changes-to-know",
+      "id": "a0f20eaabb055be39df1cd818835311ec8866c2a"
+    },
+    {
+      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-usp-regs.html",
+      "source": "SITEMAPS",
+      "targetPath": "/de/blog/blog-articles/blog-usp-regs",
+      "id": "7cf744eb1d31649dcc2db314de2ff6b377801f49"
+    },
+    {
+      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-vaccine-storage-ultimate-guide.html",
+      "source": "SITEMAPS",
+      "targetPath": "/de/blog/blog-articles/blog-vaccine-storage-ultimate-guide",
+      "id": "f8c12534f7f37ce1f2cb802c8ee66b91ba30553b"
+    },
+    {
+      "url": "https://www.sensitech.com/de/blog/blog-articles/blog-warehouse-temperature-mapping-study.html",
+      "source": "SITEMAPS",
+      "targetPath": "/de/blog/blog-articles/blog-warehouse-temperature-mapping-study",
+      "id": "e1afd614232b2755765203efa5e67e8fb06419c7"
+    },
+    {
+      "url": "https://www.sensitech.com/de/blog/blog-articles/optimizing-supply-chain.html",
+      "source": "SITEMAPS",
+      "targetPath": "/de/blog/blog-articles/optimizing-supply-chain",
+      "id": "c0a2daab1689979f2bf83a04308f6a68f85ca9e8"
+    },
+    {
+      "url": "https://www.sensitech.com/de/brakebush/brakebush-training-registration",
+      "source": "SITEMAPS",
+      "targetPath": "/de/brakebush/brakebush-training-registration",
+      "id": "b55da7a5af53ceec0846dd2f0f496bda8761096d"
+    },
+    {
+      "url": "https://www.sensitech.com/de/branchen/",
+      "source": "SITEMAPS",
+      "targetPath": "/de/branchen",
+      "id": "a3eb5dd31b9b4c9575bb46d955703468923853c1"
+    },
+    {
+      "url": "https://www.sensitech.com/de/branchen/konsum-und-industrieguter/",
+      "source": "SITEMAPS",
+      "targetPath": "/de/branchen/konsum-und-industrieguter",
+      "id": "0a94e06e66a20988506aa3134076040e8f385955"
+    },
+    {
+      "url": "https://www.sensitech.com/de/branchen/lebensmittel/",
+      "source": "SITEMAPS",
+      "targetPath": "/de/branchen/lebensmittel",
+      "id": "44a90892f19020e88aa2709518e9a01abd844ed4"
+    },
+    {
+      "url": "https://www.sensitech.com/de/branchen/lebensmittel/losungen-lebensmittelindustrie/",
+      "source": "SITEMAPS",
+      "targetPath": "/de/branchen/lebensmittel/losungen-lebensmittelindustrie",
+      "id": "62589d8eacdb96a2791fa71293c0790b0ce89754"
+    },
+    {
+      "url": "https://www.sensitech.com/de/branchen/life-sciences/",
+      "source": "SITEMAPS",
+      "targetPath": "/de/branchen/life-sciences",
+      "id": "d3edc1cdbaf576a9140704ed6a3fbf929839a20d"
+    },
+    {
+      "url": "https://www.sensitech.com/de/branchen/life-sciences/geschaftslosungen-life-sciences/",
+      "source": "SITEMAPS",
+      "targetPath": "/de/branchen/life-sciences/geschaftslosungen-life-sciences",
+      "id": "5039b846ea277dbd231e542526773f3b6c41ac71"
+    },
+    {
+      "url": "https://www.sensitech.com/de/branchen/life-sciences/klinische-versuche/",
+      "source": "SITEMAPS",
+      "targetPath": "/de/branchen/life-sciences/klinische-versuche",
+      "id": "d999bee499c6ea8a6dfa59014ea9a924f213c115"
+    },
+    {
+      "url": "https://www.sensitech.com/de/branchen/life-sciences/tiergesundheitsprodukte/",
+      "source": "SITEMAPS",
+      "targetPath": "/de/branchen/life-sciences/tiergesundheitsprodukte",
+      "id": "2c45ca3186c1e9b8c3f657df1803ac8f1c310cfd"
+    },
+    {
+      "url": "https://www.sensitech.com/de/components/standard-components/cardcollection-w4-02",
+      "source": "SITEMAPS",
+      "targetPath": "/de/components/standard-components/cardcollection-w4-02",
+      "id": "d6ce1fd8a4379776bbfe735f476541bb33927199"
+    },
+    {
+      "url": "https://www.sensitech.com/de/components/standard-components/cardcollection-w4-03",
+      "source": "SITEMAPS",
+      "targetPath": "/de/components/standard-components/cardcollection-w4-03",
+      "id": "52adaf95f8c317375b72ee74bde7584eaf649ec9"
+    },
+    {
+      "url": "https://www.sensitech.com/de/components/standard-components/cardcollection-w4-04",
+      "source": "SITEMAPS",
+      "targetPath": "/de/components/standard-components/cardcollection-w4-04",
+      "id": "0ec0fd7e95d33d7951b8c101ce1649e0c864f052"
+    },
+    {
+      "url": "https://www.sensitech.com/de/components/standard-components/cardcollection-w4-05",
+      "source": "SITEMAPS",
+      "targetPath": "/de/components/standard-components/cardcollection-w4-05",
+      "id": "776c7276ba71dc98b692fce976f3a32c0c1099bb"
+    },
+    {
+      "url": "https://www.sensitech.com/de/components/standard-components/cardcollection-w4-06",
+      "source": "SITEMAPS",
+      "targetPath": "/de/components/standard-components/cardcollection-w4-06",
+      "id": "0434808152394778e548f61a68285c8a2dd96afb"
+    },
+    {
+      "url": "https://www.sensitech.com/de/components/standard-components/cardcollection-w4-07",
+      "source": "SITEMAPS",
+      "targetPath": "/de/components/standard-components/cardcollection-w4-07",
+      "id": "bc12ba56b07106a5a78721553d472710b5eb2add"
+    },
+    {
+      "url": "https://www.sensitech.com/de/components/standard-components/cardcollection-w4-08",
+      "source": "SITEMAPS",
+      "targetPath": "/de/components/standard-components/cardcollection-w4-08",
+      "id": "f8f4fc3de52a521d08ad2a8b77fa54261f730d15"
+    },
+    {
+      "url": "https://www.sensitech.com/de/components/standard-components/cardcollection-w4-09",
+      "source": "SITEMAPS",
+      "targetPath": "/de/components/standard-components/cardcollection-w4-09",
+      "id": "eaec7661a44375bab8a78ce8362fc103fd226f77"
+    },
+    {
+      "url": "https://www.sensitech.com/de/components/standard-components/cardcollection-w4-animation",
+      "source": "SITEMAPS",
+      "targetPath": "/de/components/standard-components/cardcollection-w4-animation",
+      "id": "bfc2bd8a2db18409cf1c6d4d95231ab20491f0e7"
+    },
+    {
+      "url": "https://www.sensitech.com/de/legal/mark-ownership/",
+      "source": "SITEMAPS",
+      "targetPath": "/de/legal/mark-ownership",
+      "id": "4512389cfda671eca4ea468cd6656242fda1e540"
+    },
+    {
+      "url": "https://www.sensitech.com/de/legal/privacy-notice/",
+      "source": "SITEMAPS",
+      "targetPath": "/de/legal/privacy-notice",
+      "id": "dce3a680f8a7aed9c16d23eafe916f92b30c2be7"
+    },
+    {
+      "url": "https://www.sensitech.com/de/legal/terms-and-conditions/",
+      "source": "SITEMAPS",
+      "targetPath": "/de/legal/terms-and-conditions",
+      "id": "7de09bc77f458aab6747da0651f1b5af2945534c"
+    },
+    {
+      "url": "https://www.sensitech.com/de/legal/terms-of-use/",
+      "source": "SITEMAPS",
+      "targetPath": "/de/legal/terms-of-use",
+      "id": "fc166a226b5930a3b0393b7984ba6562e79e89e9"
+    },
+    {
+      "url": "https://www.sensitech.com/de/losungen/",
+      "source": "SITEMAPS",
+      "targetPath": "/de/losungen",
+      "id": "ea91188a0a6c11eee6082f4cd90837bced741b89"
+    },
+    {
+      "url": "https://www.sensitech.com/de/losungen/kuhlkette/",
+      "source": "SITEMAPS",
+      "targetPath": "/de/losungen/kuhlkette",
+      "id": "6e95184362917e4c88c95c6dbe83c86ab10d9f96"
+    },
+    {
+      "url": "https://www.sensitech.com/de/losungen/kuhlkette/validierte-kuhlkette/",
+      "source": "SITEMAPS",
+      "targetPath": "/de/losungen/kuhlkette/validierte-kuhlkette",
+      "id": "1e86521cbf5c85bd45b50b975fd15f2007e685a4"
+    },
+    {
+      "url": "https://www.sensitech.com/de/losungen/life-sciences-real-time/",
+      "source": "SITEMAPS",
+      "targetPath": "/de/losungen/life-sciences-real-time",
+      "id": "3af162283032b0ac6dd685178e9db2ec1ad23e97"
+    },
+    {
+      "url": "https://www.sensitech.com/de/losungen/logistikleistung/",
+      "source": "SITEMAPS",
+      "targetPath": "/de/losungen/logistikleistung",
+      "id": "1ccb1a62f398bbec8bcd0c85a0b1fc19c79e727d"
+    },
+    {
+      "url": "https://www.sensitech.com/de/losungen/lynx-logix/",
+      "source": "SITEMAPS",
+      "targetPath": "/de/losungen/lynx-logix",
+      "id": "223e9350fb2b5e1fe0f6e98ea66ea89753294fcb"
+    },
+    {
+      "url": "https://www.sensitech.com/de/nachhaltigkeit/",
+      "source": "SITEMAPS",
+      "targetPath": "/de/nachhaltigkeit",
+      "id": "de7db3c08c2f77923b93cd10f0f3716bb144d945"
+    },
+    {
+      "url": "https://www.sensitech.com/de/nachhaltigkeit/Takeback/",
+      "source": "SITEMAPS",
+      "targetPath": "/de/nachhaltigkeit/takeback",
+      "id": "4dbae0aa7514591fd101d66002870554eeb4a222"
+    },
+    {
+      "url": "https://www.sensitech.com/de/produkte/",
+      "source": "SITEMAPS",
+      "targetPath": "/de/produkte",
+      "id": "a99bf67b051d823ebca37a76c45a70f383a8b35f"
+    },
+    {
+      "url": "https://www.sensitech.com/de/produkte/anzeigen/",
+      "source": "SITEMAPS",
+      "targetPath": "/de/produkte/anzeigen",
+      "id": "294ab522682e7a46890b4a58dfa7cd24466a6cb2"
+    },
+    {
+      "url": "https://www.sensitech.com/de/produkte/datenlogger/",
+      "source": "SITEMAPS",
+      "targetPath": "/de/produkte/datenlogger",
+      "id": "0021ea4423314586819300c06763bb1291969794"
+    },
+    {
+      "url": "https://www.sensitech.com/de/produkte/datenlogger/drahtlose/",
+      "source": "SITEMAPS",
+      "targetPath": "/de/produkte/datenlogger/drahtlose",
+      "id": "2c0d14cd0e1a4e175aa34224827566b65526092f"
+    },
+    {
+      "url": "https://www.sensitech.com/de/produkte/datenlogger/echtzeit/",
+      "source": "SITEMAPS",
+      "targetPath": "/de/produkte/datenlogger/echtzeit",
+      "id": "1bea707f083a1e81e540e8c4e5cd72262eea2396"
+    },
+    {
+      "url": "https://www.sensitech.com/de/produkte/datenlogger/konventionelle/",
+      "source": "SITEMAPS",
+      "targetPath": "/de/produkte/datenlogger/konventionelle",
+      "id": "03b4d93a96505307519ccf6c66e0a86d46b06ab9"
+    },
+    {
+      "url": "https://www.sensitech.com/de/produkte/datenlogger/streifenschreiber/",
+      "source": "SITEMAPS",
+      "targetPath": "/de/produkte/datenlogger/streifenschreiber",
+      "id": "981dffca0ca3db804f1ceb23fca948191b665e8d"
+    },
+    {
+      "url": "https://www.sensitech.com/de/produkte/datenlogger/zubehor/",
+      "source": "SITEMAPS",
+      "targetPath": "/de/produkte/datenlogger/zubehor",
+      "id": "87fbefe535039165aadbb81ffd78a2ff602c72f7"
+    },
+    {
+      "url": "https://www.sensitech.com/de/produkte/mobile/",
+      "source": "SITEMAPS",
+      "targetPath": "/de/produkte/mobile",
+      "id": "98bb1cb3e2f6b570cdbd4114ea1d4d87094b2dc9"
+    },
+    {
+      "url": "https://www.sensitech.com/de/produkte/sensiwatch-plattform/",
+      "source": "SITEMAPS",
+      "targetPath": "/de/produkte/sensiwatch-plattform",
+      "id": "781fe3662c2ad9ae1df786ebb90ad9f9d4b0ad06"
+    },
+    {
+      "url": "https://www.sensitech.com/de/produkte/softwareanwendungen/",
+      "source": "SITEMAPS",
+      "targetPath": "/de/produkte/softwareanwendungen",
+      "id": "d0cbc66e9d3f88bd2d430de2b6c3c14ac164d8d8"
+    },
+    {
+      "url": "https://www.sensitech.com/de/produkte/stationare/",
+      "source": "SITEMAPS",
+      "targetPath": "/de/produkte/stationare",
+      "id": "1e597f5f16c27d604d6cc910a97f9e84a9fecb08"
+    },
+    {
+      "url": "https://www.sensitech.com/de/ressourcen/",
+      "source": "SITEMAPS",
+      "targetPath": "/de/ressourcen",
+      "id": "11bc013a4fbc53cc51dce30816d1b8da2d6c5bff"
+    },
+    {
+      "url": "https://www.sensitech.com/de/ressourcen/fallstudien/",
+      "source": "SITEMAPS",
+      "targetPath": "/de/ressourcen/fallstudien",
+      "id": "f68111d7daa6da74a5a147617921002a75425802"
+    },
+    {
+      "url": "https://www.sensitech.com/de/ressourcen/gerateruckgabeprogramm/",
+      "source": "SITEMAPS",
+      "targetPath": "/de/ressourcen/gerateruckgabeprogramm",
+      "id": "90cbb99000e965a967f5298b62a0f919a85675a1"
+    },
+    {
+      "url": "https://www.sensitech.com/de/ressourcen/iata-regulatorische-bulletins/",
+      "source": "SITEMAPS",
+      "targetPath": "/de/ressourcen/iata-regulatorische-bulletins",
+      "id": "ff1f2c4ad6db2963e65d66c6add7607f18d9f2d8"
+    },
+    {
+      "url": "https://www.sensitech.com/de/ressourcen/nachrichten/",
+      "source": "SITEMAPS",
+      "targetPath": "/de/ressourcen/nachrichten",
+      "id": "263fbd981529ad161ed79a98f62f4ba701bb0858"
+    },
+    {
+      "url": "https://www.sensitech.com/de/ressourcen/nachrichten/news-article/2022-02-01-temptale-ultra-ble.html",
+      "source": "SITEMAPS",
+      "targetPath": "/de/ressourcen/nachrichten/news-article/2022-02-01-temptale-ultra-ble",
+      "id": "8142ec1124f7894bdb3d72ff5a143e552edbdcfc"
+    },
+    {
+      "url": "https://www.sensitech.com/de/ressourcen/nachrichten/news-article/2023-04-20-sensitech-attends-logipharma.html",
+      "source": "SITEMAPS",
+      "targetPath": "/de/ressourcen/nachrichten/news-article/2023-04-20-sensitech-attends-logipharma",
+      "id": "4613603ff161059b98ab2f11dd11df35c0d65b78"
+    },
+    {
+      "url": "https://www.sensitech.com/de/ressourcen/nachrichten/news-article/2023-10-04-sensitech-unveils-lynx-logix.html",
+      "source": "SITEMAPS",
+      "targetPath": "/de/ressourcen/nachrichten/news-article/2023-10-04-sensitech-unveils-lynx-logix",
+      "id": "494845f874909980c8d44662cf36818317a97f04"
+    },
+    {
+      "url": "https://www.sensitech.com/de/ressourcen/nachrichten/news-article/2023-11-16-sensiwatch-platform.html",
+      "source": "SITEMAPS",
+      "targetPath": "/de/ressourcen/nachrichten/news-article/2023-11-16-sensiwatch-platform",
+      "id": "f812c97337db938e81ee7843de6cf8ea06b6836b"
+    },
+    {
+      "url": "https://www.sensitech.com/de/ressourcen/nachrichten/news-article/2024-02-20-temptale-geo-x.html",
+      "source": "SITEMAPS",
+      "targetPath": "/de/ressourcen/nachrichten/news-article/2024-02-20-temptale-geo-x",
+      "id": "1792df69d1a09c832fff30847e59ab849331a11f"
+    },
+    {
+      "url": "https://www.sensitech.com/de/ressourcen/nachrichten/news-article/2024-06-17-berlinger-acquisition.html",
+      "source": "SITEMAPS",
+      "targetPath": "/de/ressourcen/nachrichten/news-article/2024-06-17-berlinger-acquisition",
+      "id": "03cb5d1692887e7193e71bd7b86adeefcf1ccd80"
+    },
+    {
+      "url": "https://www.sensitech.com/de/ressourcen/nachrichten/news-article/2024-08-02-berlinger-acquisition-completion.html",
+      "source": "SITEMAPS",
+      "targetPath": "/de/ressourcen/nachrichten/news-article/2024-08-02-berlinger-acquisition-completion",
+      "id": "5f36ca4003fc167c783bcb00c0571f8e96b37f72"
+    },
+    {
+      "url": "https://www.sensitech.com/de/ressourcen/produktbulletins/",
+      "source": "SITEMAPS",
+      "targetPath": "/de/ressourcen/produktbulletins",
+      "id": "55dd1ea533c5d1ee30a15fde23a86bbe9ef98d1a"
+    },
+    {
+      "url": "https://www.sensitech.com/de/ressourcen/softwarezugriff-in-echtzeit/",
+      "source": "SITEMAPS",
+      "targetPath": "/de/ressourcen/softwarezugriff-in-echtzeit",
+      "id": "435eeb5e23a94a332f3b4890f835506dd92db511"
+    },
+    {
+      "url": "https://www.sensitech.com/de/ressourcen/technische-hinweise/",
+      "source": "SITEMAPS",
+      "targetPath": "/de/ressourcen/technische-hinweise",
+      "id": "b37e20aaff7246aec6c2d4932fa98651426e5195"
+    },
+    {
+      "url": "https://www.sensitech.com/de/ressourcen/veranstaltungen/",
+      "source": "SITEMAPS",
+      "targetPath": "/de/ressourcen/veranstaltungen",
+      "id": "99b0d06d04a636089dc104e37562c4757dbbc827"
+    },
+    {
+      "url": "https://www.sensitech.com/de/sitemap/",
+      "source": "SITEMAPS",
+      "targetPath": "/de/sitemap",
+      "id": "c8cbaa274a3bb15262c511801d50dcbbecfe8593"
+    },
+    {
+      "url": "https://www.sensitech.com/de/Subway/ipc-subway-training-registration",
+      "source": "SITEMAPS",
+      "targetPath": "/de/subway/ipc-subway-training-registration",
+      "id": "4f5176a3c74299098b78499e3046297b6cac7226"
+    },
+    {
+      "url": "https://www.sensitech.com/de/uber-uns/",
+      "source": "SITEMAPS",
+      "targetPath": "/de/uber-uns",
+      "id": "1d4d72e33cea3f507ebf1725cafac7337d895538"
+    },
+    {
+      "url": "https://www.sensitech.com/de/uber-uns/engagement-fur-die-umwelt/",
+      "source": "SITEMAPS",
+      "targetPath": "/de/uber-uns/engagement-fur-die-umwelt",
+      "id": "48b91a2e29f921e5e69a0845e6c306caeafbb67e"
+    },
+    {
+      "url": "https://www.sensitech.com/de/uber-uns/karriere/",
+      "source": "SITEMAPS",
+      "targetPath": "/de/uber-uns/karriere",
+      "id": "91153484220033a27bab38f8956e615de142862a"
+    },
+    {
+      "url": "https://www.sensitech.com/de/uber-uns/kontaktiere-uns/",
+      "source": "SITEMAPS",
+      "targetPath": "/de/uber-uns/kontaktiere-uns",
+      "id": "234d439fe2bec7937f947d5f8e50b7bea892aed0"
+    },
+    {
+      "url": "https://www.sensitech.com/de/uber-uns/kontaktiere-uns/locations",
+      "source": "SITEMAPS",
+      "targetPath": "/de/uber-uns/kontaktiere-uns/locations",
+      "id": "4ce1bd979df227a1f9d24de4caa596a0b84c86b9"
+    },
+    {
+      "url": "https://www.sensitech.com/de/uber-uns/qualitatszertifizierungen/",
+      "source": "SITEMAPS",
+      "targetPath": "/de/uber-uns/qualitatszertifizierungen",
+      "id": "954a5cd38567522418ab140b5cbc1a55b7b08ce2"
+    },
+    {
+      "url": "https://www.sensitech.com/de/unterstutzung/",
+      "source": "SITEMAPS",
+      "targetPath": "/de/unterstutzung",
+      "id": "f350dc4e6d76704c6ce86093ed82a09b14415f18"
+    },
+    {
+      "url": "https://www.sensitech.com/de/unterstutzung/benutzerhandbucher/",
+      "source": "SITEMAPS",
+      "targetPath": "/de/unterstutzung/benutzerhandbucher",
+      "id": "692df693cc1da3b10f7a3c3cf7c0cc23a47a9106"
+    },
+    {
+      "url": "https://www.sensitech.com/de/unterstutzung/downloads/",
+      "source": "SITEMAPS",
+      "targetPath": "/de/unterstutzung/downloads",
+      "id": "e5fd38861678d0cc6f5a00f50697731d6af48fad"
+    },
+    {
+      "url": "https://www.sensitech.com/de/unterstutzung/faqs/",
+      "source": "SITEMAPS",
+      "targetPath": "/de/unterstutzung/faqs",
+      "id": "1c7ec54df2f0fb4aab759ec4ffbe7b0a0feafeeb"
+    },
+    {
+      "url": "https://www.sensitech.com/de/wendys/webinar",
+      "source": "SITEMAPS",
+      "targetPath": "/de/wendys/webinar",
+      "id": "b87905c163926373fc24d497b2349b3b5a09ae69"
+    },
+    {
+      "url": "https://www.sensitech.com/de/wendys/wendys-2024-cold-chain-webinar-registration",
+      "source": "SITEMAPS",
+      "targetPath": "/de/wendys/wendys-2024-cold-chain-webinar-registration",
+      "id": "486046ed3bebb7459b4892badd9c95feae59cbe9"
+    },
+    {
+      "url": "https://www.sensitech.com/de/wendys/wendys-dc-training",
+      "source": "SITEMAPS",
+      "targetPath": "/de/wendys/wendys-dc-training",
+      "id": "41c75a0d5fc080b1228667a2923957582d72d5cc"
+    },
+    {
+      "url": "https://www.sensitech.com/de/wendys/wendys-supplier-training",
+      "source": "SITEMAPS",
+      "targetPath": "/de/wendys/wendys-supplier-training",
+      "id": "8482880d85689f1bd9ba3c46b308a3fcb20391ed"
+    },
+    {
+      "url": "https://www.sensitech.com/de/yum-brands/yum-brands-training-registration",
+      "source": "SITEMAPS",
+      "targetPath": "/de/yum-brands/yum-brands-training-registration",
+      "id": "956b689fdfaf6b4cb26f680160cdcb1ca8d1a2dc"
     },
     {
       "url": "https://www.sensitech.com/es/",
@@ -5671,146 +5811,6 @@
       "source": "SITEMAPS",
       "targetPath": "/zh/yum-brands/yum-brands-training-registration",
       "id": "421a53155ac57cd5ba6b81b5a4236a100be582b2"
-    }
-  ],
-  "crawlOptions": {
-    "timeout": 64800000,
-    "inclusionPatterns": [],
-    "exclusionPatterns": [],
-    "limit": -1,
-    "sameDomain": true,
-    "keepHash": false,
-    "strategy": "SITEMAPS",
-    "logger": {}
-  },
-  "extractionErrors": [
-    {
-      "url": "https://www.sensitech.com/en/resources/news/news-article/",
-      "status": "404 Not Found"
-    },
-    {
-      "url": "https://www.sensitech.com/en/blog/blog-articles/",
-      "status": "404 Not Found"
-    },
-    {
-      "url": "https://www.sensitech.com/it/chi-siamo/contattaci/directions/",
-      "status": "404 Not Found"
-    },
-    {
-      "url": "https://www.sensitech.com/it/risorse/notizie/news-article/",
-      "status": "404 Not Found"
-    },
-    {
-      "url": "https://www.sensitech.com/it/risorse/eventi/2023/asia-fruit-logistica-2023",
-      "status": "404 Not Found"
-    },
-    {
-      "url": "https://www.sensitech.com/it/blog/blog-articles/",
-      "status": "404 Not Found"
-    },
-    {
-      "url": "https://www.sensitech.com/fr/a-propos-de-Sensitech/nous-contacter/directions/",
-      "status": "404 Not Found"
-    },
-    {
-      "url": "https://www.sensitech.com/fr/ressources/actualites/news-article/",
-      "status": "404 Not Found"
-    },
-    {
-      "url": "https://www.sensitech.com/fr/ressources/evenements/2023/asia-fruit-logistica-2023",
-      "status": "404 Not Found"
-    },
-    {
-      "url": "https://www.sensitech.com/fr/blog/blog-articles/",
-      "status": "404 Not Found"
-    },
-    {
-      "url": "https://www.sensitech.com/es/recursos/boletines-de-productos/",
-      "status": "404 Not Found"
-    },
-    {
-      "url": "https://www.sensitech.com/es/recursos/boletines-regulatorios-iata/",
-      "status": "404 Not Found"
-    },
-    {
-      "url": "https://www.sensitech.com/es/recursos/noticias/news-article/",
-      "status": "404 Not Found"
-    },
-    {
-      "url": "https://www.sensitech.com/es/blog/blog-articles/",
-      "status": "404 Not Found"
-    },
-    {
-      "url": "https://www.sensitech.com/de/ressourcen/nachrichten/news-article/",
-      "status": "404 Not Found"
-    },
-    {
-      "url": "https://www.sensitech.com/de/ressourcen/nachrichten/news-article/2022_02_07-sensitech-monitors-temperature-in-sealed-packages.html",
-      "status": "404 Not Found"
-    },
-    {
-      "url": "https://www.sensitech.com/de/ressourcen/veranstaltungen/2023/asia-fruit-logistica-2023",
-      "status": "404 Not Found"
-    },
-    {
-      "url": "https://www.sensitech.com/de/blog/blog-articles/",
-      "status": "404 Not Found"
-    },
-    {
-      "url": "https://www.sensitech.com/en/resources/news/news-article/",
-      "status": "404 Not Found"
-    },
-    {
-      "url": "https://www.sensitech.com/en/blog/blog-articles/",
-      "status": "404 Not Found"
-    },
-    {
-      "url": "https://www.sensitech.com/pt/recursos/novidades/news-article/",
-      "status": "404 Not Found"
-    },
-    {
-      "url": "https://www.sensitech.com/pt/recursos/eventos/events-articles/2023_06_05-hort-connections.html",
-      "status": "404 Not Found"
-    },
-    {
-      "url": "https://www.sensitech.com/pt/recursos/eventos/2023/asia-fruit-logistica-2023",
-      "status": "404 Not Found"
-    },
-    {
-      "url": "https://www.sensitech.com/pt/blog/blog-articles/",
-      "status": "404 Not Found"
-    },
-    {
-      "url": "https://www.sensitech.com/zh/resources/news/news-article/",
-      "status": "404 Not Found"
-    },
-    {
-      "url": "https://www.sensitech.com/zh/resources/events/2023/asia-fruit-logistica-2023",
-      "status": "404 Not Found"
-    },
-    {
-      "url": "https://www.sensitech.com/zh/blog/blog-articles/",
-      "status": "404 Not Found"
-    },
-    {
-      "url": "https://www.sensitech.com/jp/about-us/contact-us/directions/",
-      "status": "500 Internal Server Error"
-    },
-    {
-      "url": "https://www.sensitech.com/jp/resources/news/news-article/",
-      "status": "500 Internal Server Error"
-    },
-    {
-      "url": "https://www.sensitech.com/jp/resources/events/2023/asia-fruit-logistica-2023",
-      "status": "500 Internal Server Error"
-    },
-    {
-      "url": "https://www.sensitech.com/jp/blog/blog-articles/",
-      "status": "500 Internal Server Error"
-    },
-    {
-      "url": "https://www.sensitech.com/sitemap.xml",
-      "status": "parseSitemapFromUrl (https://www.sensitech.com/sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Content-Type: text/html; charset=utf-8"
     }
   ]
 }
