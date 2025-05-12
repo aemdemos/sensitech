@@ -33,12 +33,6 @@
       "id": "dc8531df2ca644badf926ab7d06b5e54bd677231"
     },
     {
-      "url": "https://www.sensitech.com/en/about-us/contact-us/locations",
-      "source": "SITEMAPS",
-      "targetPath": "/en/about-us/contact-us/locations",
-      "id": "9c6df3207524683d4826415ea824c229b61d2c81"
-    },
-    {
       "url": "https://www.sensitech.com/en/about-us/quality-certifications/",
       "source": "SITEMAPS",
       "targetPath": "/en/about-us/quality-certifications",
@@ -49,12 +43,6 @@
       "source": "SITEMAPS",
       "targetPath": "/en/blog",
       "id": "b21963ba34e677cbdf3c1571859648da2382bbf9"
-    },
-    {
-      "url": "https://www.sensitech.com/en/blog/blog-articles/",
-      "source": "SITEMAPS",
-      "targetPath": "/en/blog/blog-articles",
-      "id": "6743cff977844604a23dd81b8d9c724d08837c1f"
     },
     {
       "url": "https://www.sensitech.com/en/blog/blog-articles/blog-animal-health-cold-chain-regulations.html",
@@ -5811,6 +5799,22 @@
       "source": "SITEMAPS",
       "targetPath": "/zh/yum-brands/yum-brands-training-registration",
       "id": "421a53155ac57cd5ba6b81b5a4236a100be582b2"
+    },
+    {
+      "url": "https://www.sensitech.com/en/about-us/contact-us/locations",
+      "source": "SITEMAPS",
+      "targetPath": "/en/about-us/contact-us/locations",
+      "id": "9c6df3207524683d4826415ea824c229b61d2c81",
+      "status": "skipped",
+      "reason": "empty page"
+    },
+    {
+      "url": "https://www.sensitech.com/en/blog/blog-articles/",
+      "source": "SITEMAPS",
+      "targetPath": "/en/blog/blog-articles",
+      "id": "6743cff977844604a23dd81b8d9c724d08837c1f",
+      "status": "skipped",
+      "reason": "end up in 404 page"
     }
   ]
 }
