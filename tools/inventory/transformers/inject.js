@@ -1,7 +1,6 @@
 
 (() => {
-  const el = document.querySelector('header.ct-header-basic-redesign');
-  if (el) {
-    el.style.position = 'unset';
-  }
+  document.querySelectorAll('header.ct-header-basic-redesign, .container-fluid.ct-breadcrumb-a').forEach((el) => {
+    el.style.position = 'relative';
+  });
 })();
