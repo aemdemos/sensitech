@@ -2407,7 +2407,7 @@
         {
           "url": "https://www.sensitech.com/en/blog/",
           "urlHash": "b21963ba34e677cbdf3c1571859648da2382bbf9",
-          "uuid": "b21963ba-08-6e70765a003047818ea5700b557b8d01b43078df",
+          "uuid": "b21963ba-06-6e70765a003047818ea5700b557b8d01b43078df",
           "xpath": "/html[1]/body[1]/div[1]"
         },
         {
@@ -2751,7 +2751,7 @@
   ],
   "blocks": [
     {
-      "name": "Carousel",
+      "name": "Embed (video)",
       "cluster": 1,
       "instances": [
         {
@@ -3261,7 +3261,7 @@
       ]
     },
     {
-      "name": "Hero",
+      "name": "Columns",
       "cluster": 6,
       "instances": [
         {
@@ -3333,7 +3333,7 @@
       ]
     },
     {
-      "name": "Table (striped & bordered)",
+      "name": "Cards (no images)",
       "cluster": 7,
       "instances": [
         {
@@ -3369,398 +3369,80 @@
       ]
     },
     {
-      "name": "Embed (video)",
+      "name": "Columns",
       "cluster": 8,
       "instances": [
         {
-          "url": "https://www.sensitech.com/en/about-us/quality-certifications/",
-          "urlHash": "0122eee26ec5ecb7b5bf4fa04f7b8e72020b8645",
-          "uuid": "0122eee2-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/resources/white-papers/",
-          "urlHash": "05824bfc5597536165273a923472ade78c33485a",
-          "uuid": "05824bfc-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/resources/events/",
-          "urlHash": "07141ced0dd3c2943b1805e11c9149a04d804039",
-          "uuid": "07141ced-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/products/",
-          "urlHash": "0eb82a8c4fcb06110fec54789eed10d40b36345d",
-          "uuid": "0eb82a8c-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
           "url": "https://www.sensitech.com/en/training/wendys/webinar",
           "urlHash": "0ee26924185c97468012cc5786f4c1a8569bfb68",
-          "uuid": "0ee26924-02-ca8712c1b8a873222ab45e96f65d719ac9cb297b",
-          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/industries/",
-          "urlHash": "23a4a2d5e850964bf471e16ed67498ceefe1d2eb",
-          "uuid": "23a4a2d5-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/solutions/logistics-performance/",
-          "urlHash": "2f493b380de5af626d9c0c55b74ab1c25477dddd",
-          "uuid": "2f493b38-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+          "uuid": "0ee26924-03-9125ff314aefc17364a00ffdd2c54a5dd0c25aea",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[3]"
         },
         {
           "url": "https://www.sensitech.com/en/training/Subway/ipc-subway-2025-training-registration",
           "urlHash": "3c267d6b0e1d610f634709071a4e0548534cd5b9",
-          "uuid": "3c267d6b-02-ca8712c1b8a873222ab45e96f65d719ac9cb297b",
-          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/products/monitors/accessories/",
-          "urlHash": "3fd4134876d322e23c8d8105e86d76ec78a5e395",
-          "uuid": "3fd41348-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/solutions/lynx-logix/",
-          "urlHash": "42c2a136f81116106cb9ce7c4ff4cf551e2d2c7b",
-          "uuid": "42c2a136-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/solutions/",
-          "urlHash": "4c1b8569c518670594bd81352b54da46b6394542",
-          "uuid": "4c1b8569-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/solutions/cold-chain/",
-          "urlHash": "4de4817d24c8923e3fba4689bbd172a1c180e8ab",
-          "uuid": "4de4817d-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+          "uuid": "3c267d6b-03-9125ff314aefc17364a00ffdd2c54a5dd0c25aea",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[3]"
         },
         {
           "url": "https://www.sensitech.com/en/training/wendys/wendys-dc-training",
           "urlHash": "4dea757115ce78314d8241ac71d4a419c76e1856",
-          "uuid": "4dea7571-02-ca8712c1b8a873222ab45e96f65d719ac9cb297b",
-          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/solutions/life-sciences-real-time/",
-          "urlHash": "52951b5def3344c598bc3eb0237f6ddff7a9413d",
-          "uuid": "52951b5d-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/support/user-manuals/",
-          "urlHash": "536afca505d70d41824e65bdbf1cfcd93cdad976",
-          "uuid": "536afca5-02-ca8712c1b8a873222ab45e96f65d719ac9cb297b",
-          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/support/faqs/",
-          "urlHash": "56900450ebf1d705ae8bc7fdcc77b97d30510d3c",
-          "uuid": "56900450-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/solutions/lynx-factor/",
-          "urlHash": "598c72eeb6039cc2b75613ebc829d576af62723e",
-          "uuid": "598c72ee-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+          "uuid": "4dea7571-03-9125ff314aefc17364a00ffdd2c54a5dd0c25aea",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[3]"
         },
         {
           "url": "https://www.sensitech.com/en/training/wegmans/wegmans-training-registration",
           "urlHash": "5e3cef9f562572fb2da12e38184ed0667fd9b8db",
-          "uuid": "5e3cef9f-02-ca8712c1b8a873222ab45e96f65d719ac9cb297b",
-          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/products/stm/",
-          "urlHash": "5f520b33ba1e98fde2e915393d3226baffd63e3c",
-          "uuid": "5f520b33-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+          "uuid": "5e3cef9f-03-9125ff314aefc17364a00ffdd2c54a5dd0c25aea",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[3]"
         },
         {
           "url": "https://www.sensitech.com/en/training/wendys/wendys-2024-cold-chain-webinar-registration",
           "urlHash": "62c96bad4b65c801cdde0b4907e1dfdfe97b4f95",
-          "uuid": "62c96bad-02-ca8712c1b8a873222ab45e96f65d719ac9cb297b",
-          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/resources/case-studies/",
-          "urlHash": "64513c32ca35439959808746f15ecf7fa0b4ee4c",
-          "uuid": "64513c32-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/sitemap/",
-          "urlHash": "6487ce6d6bb1762248ee63e34a903077aa44a647",
-          "uuid": "6487ce6d-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/sustainability/Takeback/",
-          "urlHash": "659c83ece83efc42f815e0061dc38cc3ece76f82",
-          "uuid": "659c83ec-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/about-us/",
-          "urlHash": "68ca4ec268bb519f542f345732b012c1cf4b206f",
-          "uuid": "68ca4ec2-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/products/sensiwatch-platform/",
-          "urlHash": "6b5f6d0e6ec03d5164251fa16746b013a8e9f2c9",
-          "uuid": "6b5f6d0e-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/resources/iata-regulatory-bulletins/",
-          "urlHash": "6fb71da9381def536c14c585083e772e04beefc7",
-          "uuid": "6fb71da9-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/legal/mark-ownership/",
-          "urlHash": "725b517e936771988b16f88300ef1574c913fad8",
-          "uuid": "725b517e-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/products/monitors/",
-          "urlHash": "74138c25340bb09f68bf54d17cc0329e0d1c0282",
-          "uuid": "74138c25-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/industries/consumer-industrial/",
-          "urlHash": "78a6bb0ee73c381741a7ff392f45ae0dda925bd2",
-          "uuid": "78a6bb0e-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+          "uuid": "62c96bad-03-9125ff314aefc17364a00ffdd2c54a5dd0c25aea",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[3]"
         },
         {
           "url": "https://www.sensitech.com/en/training/wendys/wendys-supplier-training",
           "urlHash": "7cef5ef1406d14de753c6fa270af37f2cec3d2b1",
-          "uuid": "7cef5ef1-02-ca8712c1b8a873222ab45e96f65d719ac9cb297b",
-          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[2]"
+          "uuid": "7cef5ef1-03-9125ff314aefc17364a00ffdd2c54a5dd0c25aea",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[3]"
         },
         {
           "url": "https://www.sensitech.com/en/training/dole/dole-training-registration",
           "urlHash": "8881425670516a29fa0b0a34af93e6b628d374a2",
-          "uuid": "88814256-02-ca8712c1b8a873222ab45e96f65d719ac9cb297b",
-          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/products/monitors/scr/",
-          "urlHash": "91aab2217bf71606e32abf96ebf100b427932767",
-          "uuid": "91aab221-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/industries/life-sciences/",
-          "urlHash": "935537ba7f4371b2c2cda9b811000360b38c4e89",
-          "uuid": "935537ba-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/industries/food/",
-          "urlHash": "93cbbb630e9857c3aa42d6601a56df1ec641c271",
-          "uuid": "93cbbb63-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+          "uuid": "88814256-03-9125ff314aefc17364a00ffdd2c54a5dd0c25aea",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[3]"
         },
         {
           "url": "https://www.sensitech.com/en/brakebush/brakebush-training-registration",
           "urlHash": "9b6aa6304ad4cc809741947df800f22b946d34f0",
-          "uuid": "9b6aa630-02-ca8712c1b8a873222ab45e96f65d719ac9cb297b",
-          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/industries/life-sciences/clinical-trials/",
-          "urlHash": "9d71a334e62fd06070e830efe819a4f6f054bce5",
-          "uuid": "9d71a334-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/legal/terms-and-conditions/",
-          "urlHash": "9ddd5e09b119277eac35b124dd31ef336ad83e93",
-          "uuid": "9ddd5e09-01-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/resources/product-bulletins/",
-          "urlHash": "a766aaaa9f612302dce1a136f14a2ae8bcec3da5",
-          "uuid": "a766aaaa-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/blog/",
-          "urlHash": "b21963ba34e677cbdf3c1571859648da2382bbf9",
-          "uuid": "b21963ba-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/support/",
-          "urlHash": "b3d59f5c6219f123e40b58334d4d1aaa36b4f09b",
-          "uuid": "b3d59f5c-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+          "uuid": "9b6aa630-03-9125ff314aefc17364a00ffdd2c54a5dd0c25aea",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[3]"
         },
         {
           "url": "https://www.sensitech.com/en/training/Subway/ipc-subway-training-registration",
           "urlHash": "b3f453e7397de993cf2b92f7ee58f2fb9af6be30",
-          "uuid": "b3f453e7-02-ca8712c1b8a873222ab45e96f65d719ac9cb297b",
-          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/legal/terms-of-use/",
-          "urlHash": "b584e1b00d98e817bb6a49f284a11a6ab26e427e",
-          "uuid": "b584e1b0-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/products/indicators/",
-          "urlHash": "b62ee38de157ffd7db40de8bc0f44e3c316ffaf4",
-          "uuid": "b62ee38d-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/resources/news/",
-          "urlHash": "bb24a3fb2eab1c1df880bd1ff9bc28bcb592ba64",
-          "uuid": "bb24a3fb-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/products/monitors/wireless/",
-          "urlHash": "bcbbe33d8117c1611d2191a25539b4bccded509e",
-          "uuid": "bcbbe33d-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/about-us/commitment-to-the-environment/",
-          "urlHash": "bf82129609a26fb409102199dab7cf67f3c7a9c7",
-          "uuid": "bf821296-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/products/software/",
-          "urlHash": "c056431535e3b14c67d3224a8d61714292c29b78",
-          "uuid": "c0564315-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/industries/life-sciences/life-sciences-solutions/",
-          "urlHash": "c082e72f7f635438045246adf887387ecb165be3",
-          "uuid": "c082e72f-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+          "uuid": "b3f453e7-03-9125ff314aefc17364a00ffdd2c54a5dd0c25aea",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[3]"
         },
         {
           "url": "https://www.sensitech.com/en/yum-brands/yum-brands-training-registration",
           "urlHash": "c28a01a6d5ae3368a96f5b0c6b9d4c660c0fe70b",
-          "uuid": "c28a01a6-02-ca8712c1b8a873222ab45e96f65d719ac9cb297b",
-          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/sustainability/",
-          "urlHash": "c2e3c911af19be69773cfdba9b3a4751c320d9f5",
-          "uuid": "c2e3c911-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/industries/life-sciences/animal-health/",
-          "urlHash": "c3fc84c4064ce06bfd0197468bdc7686eee7e2bd",
-          "uuid": "c3fc84c4-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/products/monitors/realtime/",
-          "urlHash": "cade109a68e7aa0d247008ebc43f37c0f3e5c081",
-          "uuid": "cade109a-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+          "uuid": "c28a01a6-03-9125ff314aefc17364a00ffdd2c54a5dd0c25aea",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[3]"
         },
         {
           "url": "https://www.sensitech.com/en/training/taylor-farms/taylor-farms-training-registration",
           "urlHash": "cef675721cf7765928e18caa0343bbb1a661ca73",
-          "uuid": "cef67572-02-ca8712c1b8a873222ab45e96f65d719ac9cb297b",
-          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/sustainability/Takeback/EMEA",
-          "urlHash": "d47a3118517f2ceb5df07ccf5a5c8f4f4a832301",
-          "uuid": "d47a3118-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/sustainability/Takeback/APAC",
-          "urlHash": "d64e7d40a9bcb2d158c8467cbaafd6328ebc2dab",
-          "uuid": "d64e7d40-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/industries/food/food-industry-solutions/",
-          "urlHash": "daf02343efa246d7e067a1179ace82d663e8a8b8",
-          "uuid": "daf02343-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/about-us/contact-us/",
-          "urlHash": "dc8531df2ca644badf926ab7d06b5e54bd677231",
-          "uuid": "dc8531df-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/solutions/cold-chain/validated-cold-chain/",
-          "urlHash": "debb22d2da00ea36e2c9f750b9af01e48d785d18",
-          "uuid": "debb22d2-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/legal/privacy-notice/",
-          "urlHash": "e24cd87ab2f3e03dd03b46c743176b6ce8392ab0",
-          "uuid": "e24cd87a-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/products/mobile/",
-          "urlHash": "f38bd3c2538cd4455bbddee793cec8571f0bad4c",
-          "uuid": "f38bd3c2-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/about-us/careers/",
-          "urlHash": "f42fb51e646f8a2d34133c815c57af32550c517a",
-          "uuid": "f42fb51e-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/products/monitors/conventional/",
-          "urlHash": "f4eb58af1bda0754b5f331a0dd43efdf08182db5",
-          "uuid": "f4eb58af-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/resources/real-time-software-access/",
-          "urlHash": "face1dacf7992e5457f76331459e4bde54c72520",
-          "uuid": "face1dac-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/resources/",
-          "urlHash": "fae53d24c9707deba29e4d66a903c8dccd1411ab",
-          "uuid": "fae53d24-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+          "uuid": "cef67572-03-9125ff314aefc17364a00ffdd2c54a5dd0c25aea",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[3]"
         },
         {
           "url": "https://www.sensitech.com/en/training/wendys/wendys-2025-cold-chain-webinar-registration",
           "urlHash": "ff28cc126dd05d759e99c62d0190e5ef03a77dd6",
-          "uuid": "ff28cc12-02-ca8712c1b8a873222ab45e96f65d719ac9cb297b",
-          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[2]"
+          "uuid": "ff28cc12-03-9125ff314aefc17364a00ffdd2c54a5dd0c25aea",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[3]"
         }
       ]
     },
@@ -4179,253 +3861,103 @@
       ]
     },
     {
-      "name": "Accordion",
+      "name": "unknown",
       "cluster": 13,
       "instances": [
         {
-          "url": "https://www.sensitech.com/en/blog/blog-articles/blog-ultimate-guide-cold-chain-monitoring.html",
-          "urlHash": "014025c0e85452b4ccbae99759e85e6f514120fa",
-          "uuid": "014025c0-03-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "url": "https://www.sensitech.com/en/resources/news/news-article/2023-11-16-sensiwatch-platform.html",
+          "urlHash": "161a4e6828882ea3197aa6c0b5e6609398bb2205",
+          "uuid": "161a4e68-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
           "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
         },
         {
-          "url": "https://www.sensitech.com/en/blog/blog-articles/blog-temp-controlled-med-storage-biomed-sppharma.html",
-          "urlHash": "2911072cbb118fb1543c680cc1ecd04fce784fe2",
-          "uuid": "2911072c-03-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "url": "https://www.sensitech.com/en/resources/news/news-article/2025-04-07-sensitech-showcase-logipharma.html",
+          "urlHash": "1b47a9cf9c9a43e91832de7b255c231242d51740",
+          "uuid": "1b47a9cf-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
           "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
         },
         {
-          "url": "https://www.sensitech.com/en/blog/blog-articles/blog-cold-chain-management-and-logistics.html",
-          "urlHash": "35a1ef8b4b80567fd0d12b4b6150692f37a84062",
-          "uuid": "35a1ef8b-03-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "url": "https://www.sensitech.com/en/resources/news/news-article/2024-04-15-logipharma-eu.html",
+          "urlHash": "208997b7007f1c16f4c8a5e9583e54e219e931d1",
+          "uuid": "208997b7-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
           "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
         },
         {
-          "url": "https://www.sensitech.com/en/solutions/cold-chain/",
-          "urlHash": "4de4817d24c8923e3fba4689bbd172a1c180e8ab",
-          "uuid": "4de4817d-08-474be417a286ce552ef939123281269c04801156",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[3]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/solutions/life-sciences-real-time/",
-          "urlHash": "52951b5def3344c598bc3eb0237f6ddff7a9413d",
-          "uuid": "52951b5d-15-474be417a286ce552ef939123281269c04801156",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[3]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/support/faqs/",
-          "urlHash": "56900450ebf1d705ae8bc7fdcc77b97d30510d3c",
-          "uuid": "56900450-04-474be417a286ce552ef939123281269c04801156",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[3]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/support/faqs/",
-          "urlHash": "56900450ebf1d705ae8bc7fdcc77b97d30510d3c",
-          "uuid": "56900450-05-bebd65132d35c7fb7b57b32caa8f13297a542ab6",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[4]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/support/faqs/",
-          "urlHash": "56900450ebf1d705ae8bc7fdcc77b97d30510d3c",
-          "uuid": "56900450-06-5f353c1950934019b57b03481213dbfe71d4eacd",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[5]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/support/faqs/",
-          "urlHash": "56900450ebf1d705ae8bc7fdcc77b97d30510d3c",
-          "uuid": "56900450-07-62b0b7b42bff411e93c0404e45ac63e4c68abd24",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[6]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/support/faqs/",
-          "urlHash": "56900450ebf1d705ae8bc7fdcc77b97d30510d3c",
-          "uuid": "56900450-08-b1f2454d5eda88b6e6e38e3a1bdbf79772bf62bc",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[7]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/support/faqs/",
-          "urlHash": "56900450ebf1d705ae8bc7fdcc77b97d30510d3c",
-          "uuid": "56900450-09-835623aee1bb594e2c6834cee3573c94ec339b70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[8]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/support/faqs/",
-          "urlHash": "56900450ebf1d705ae8bc7fdcc77b97d30510d3c",
-          "uuid": "56900450-10-edb38186160f8f1977b4b245db53fc9fdb9ae03b",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[9]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/support/faqs/",
-          "urlHash": "56900450ebf1d705ae8bc7fdcc77b97d30510d3c",
-          "uuid": "56900450-11-c5d27cbf346f3f8a0908cbef2ffdb44a7b24f88f",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[10]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/support/faqs/",
-          "urlHash": "56900450ebf1d705ae8bc7fdcc77b97d30510d3c",
-          "uuid": "56900450-12-7b1e5678a8181e4e48c3d25bf80ccc85b09c109e",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[11]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/support/faqs/",
-          "urlHash": "56900450ebf1d705ae8bc7fdcc77b97d30510d3c",
-          "uuid": "56900450-13-86272374f9780afebbed894b47831f8375305814",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[12]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/support/faqs/",
-          "urlHash": "56900450ebf1d705ae8bc7fdcc77b97d30510d3c",
-          "uuid": "56900450-14-acab9d5b7537545f97fca0eaeb5d1e1df00e9be1",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[13]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/support/faqs/",
-          "urlHash": "56900450ebf1d705ae8bc7fdcc77b97d30510d3c",
-          "uuid": "56900450-15-d8323ed2e9320f6e3244815c59b4938e67049f1d",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[14]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/support/faqs/",
-          "urlHash": "56900450ebf1d705ae8bc7fdcc77b97d30510d3c",
-          "uuid": "56900450-16-bcc20098cf78219b78adc8e25fcc9f8b559557b3",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[15]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/solutions/lynx-factor/",
-          "urlHash": "598c72eeb6039cc2b75613ebc829d576af62723e",
-          "uuid": "598c72ee-08-474be417a286ce552ef939123281269c04801156",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[3]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/blog/blog-articles/blog-ice-cream-sc-logistics.html",
-          "urlHash": "5c79d57253175aa420596037cda78400de43fa7d",
-          "uuid": "5c79d572-03-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "url": "https://www.sensitech.com/en/resources/news/news-article/2023-04-20-sensitech-attends-logipharma.html",
+          "urlHash": "4e1502ebc80ea16d3e889b24df3c3477ec698596",
+          "uuid": "4e1502eb-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
           "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
         },
         {
-          "url": "https://www.sensitech.com/en/products/stm/",
-          "urlHash": "5f520b33ba1e98fde2e915393d3226baffd63e3c",
-          "uuid": "5f520b33-05-bebd65132d35c7fb7b57b32caa8f13297a542ab6",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[4]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/blog/blog-articles/blog-monitor-placement.html",
-          "urlHash": "69be7985f27c6b0da02883db7d7beb072d34126d",
-          "uuid": "69be7985-03-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "url": "https://www.sensitech.com/en/resources/news/news-article/2020_06_22_sensitech30_swplatform.html",
+          "urlHash": "5d810d210f6026e9aacbbac7ee547669a9ce5c57",
+          "uuid": "5d810d21-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
           "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
         },
         {
-          "url": "https://www.sensitech.com/en/blog/blog-articles/blog-pharmaceutical-warehouse-requirements.html",
-          "urlHash": "6c8b754a89c5d4f64d9d2ef4c4b9d3755f027a92",
-          "uuid": "6c8b754a-03-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "url": "https://www.sensitech.com/en/resources/news/news-article/2024-06-17-berlinger-acquisition.html",
+          "urlHash": "64b43d026944de92c0bbfc3a8c3b0371d7e1bac3",
+          "uuid": "64b43d02-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
           "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
         },
         {
-          "url": "https://www.sensitech.com/en/blog/blog-articles/blog-how-to-ship-medicine-that-needs-refrigeration.html",
-          "urlHash": "72f68f94752919591b5e9f0988579d60314365d1",
-          "uuid": "72f68f94-03-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "url": "https://www.sensitech.com/en/resources/news/news-article/2024-10-17-sensitech-x-qualcomm.html",
+          "urlHash": "668df8d63e2c157e4183d9fc350bdbe2b286f8c9",
+          "uuid": "668df8d6-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
           "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
         },
         {
-          "url": "https://www.sensitech.com/en/products/monitors/",
-          "urlHash": "74138c25340bb09f68bf54d17cc0329e0d1c0282",
-          "uuid": "74138c25-06-bebd65132d35c7fb7b57b32caa8f13297a542ab6",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[4]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/blog/blog-articles/blog-real-time-visibility-in-the-supply-chain.html",
-          "urlHash": "74258080df23f1c571b676629f0127e5f3cf78d9",
-          "uuid": "74258080-03-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "url": "https://www.sensitech.com/en/resources/news/news-article/2021_04_27-carrier-atrium-vaccine-distribution.html",
+          "urlHash": "8fddb351a716f43f7b0b9e34ffb2426baaba8b4f",
+          "uuid": "8fddb351-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
           "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
         },
         {
-          "url": "https://www.sensitech.com/en/industries/life-sciences/",
-          "urlHash": "935537ba7f4371b2c2cda9b811000360b38c4e89",
-          "uuid": "935537ba-12-bebd65132d35c7fb7b57b32caa8f13297a542ab6",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[4]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/industries/food/",
-          "urlHash": "93cbbb630e9857c3aa42d6601a56df1ec641c271",
-          "uuid": "93cbbb63-11-bebd65132d35c7fb7b57b32caa8f13297a542ab6",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[4]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/blog/blog-articles/blog-pharma-cold-chain-monitoring.html",
-          "urlHash": "98168bc529d616a4fbfd40b4de33c7ab27040fec",
-          "uuid": "98168bc5-03-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "url": "https://www.sensitech.com/en/resources/news/news-article/2021_02_25-next-gen-iot-devices.html",
+          "urlHash": "acfea1192a8bb8d9a5625c99780fe0230548fff0",
+          "uuid": "acfea119-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
           "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
         },
         {
-          "url": "https://www.sensitech.com/en/blog/blog-articles/blog-seafood-transportation-guide.html",
-          "urlHash": "9e73eca39616f6bb0efafd3e8bc6e499f85c87bd",
-          "uuid": "9e73eca3-03-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "url": "https://www.sensitech.com/en/resources/news/news-article/2023-10-04-sensitech-unveils-lynx-logix.html",
+          "urlHash": "b413d8ec8b5b44cf5ad9a9b5d53c09516c1631e8",
+          "uuid": "b413d8ec-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
           "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
         },
         {
-          "url": "https://www.sensitech.com/en/products/indicators/",
-          "urlHash": "b62ee38de157ffd7db40de8bc0f44e3c316ffaf4",
-          "uuid": "b62ee38d-05-bebd65132d35c7fb7b57b32caa8f13297a542ab6",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[4]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/blog/blog-articles/blog-four-steps-keeping-cold-chain-unbroken.html",
-          "urlHash": "bdf7b9a198d0f04267f5867ecb311c685146dc24",
-          "uuid": "bdf7b9a1-03-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "url": "https://www.sensitech.com/en/resources/news/news-article/2021-11-22-asia-vaccine-award.html",
+          "urlHash": "b9e8fdc4b0a8bbc19676542dccff9b2b42749435",
+          "uuid": "b9e8fdc4-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
           "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
         },
         {
-          "url": "https://www.sensitech.com/en/blog/blog-articles/blog-transporting-warehousing-chocolates.html",
-          "urlHash": "bf01c612f3b4959b84114ebcfa5ad5441e264b64",
-          "uuid": "bf01c612-03-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "url": "https://www.sensitech.com/en/resources/news/news-article/2025-03-18-carrier-launches-lynx-factor.html",
+          "urlHash": "bdff50bebf480352ec2d405667401f6bcb4a1527",
+          "uuid": "bdff50be-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
           "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
         },
         {
-          "url": "https://www.sensitech.com/en/blog/blog-articles/blog-usp-regs.html",
-          "urlHash": "d6e352a1f7273f1472bdc23bd6fa943b6f24768f",
-          "uuid": "d6e352a1-03-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "url": "https://www.sensitech.com/en/resources/news/news-article/2020_04_23_carrier_public.html",
+          "urlHash": "c8a341a65ddcb79fa4e2b297b231e2b64c337f4d",
+          "uuid": "c8a341a6-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
           "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
         },
         {
-          "url": "https://www.sensitech.com/en/blog/blog-articles/blog-warehouse-temperature-mapping-study.html",
-          "urlHash": "dd273670bdc3ae1bed832dfebd02b8319b10a348",
-          "uuid": "dd273670-03-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "url": "https://www.sensitech.com/en/resources/news/news-article/2024-08-02-berlinger-acquisition-completion.html",
+          "urlHash": "d5b4242ab3b738c3e24b7768283e295c62b31b14",
+          "uuid": "d5b4242a-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
           "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
         },
         {
-          "url": "https://www.sensitech.com/en/blog/blog-articles/blog-vaccine-storage-ultimate-guide.html",
-          "urlHash": "e40586635dfc323f362569d3d9a32fbb2a944af9",
-          "uuid": "e4058663-77-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "url": "https://www.sensitech.com/en/resources/news/news-article/2022-02-01-temptale-ultra-ble.html",
+          "urlHash": "f416c86cd7fb818f0a8808622e766bc6cfdafc07",
+          "uuid": "f416c86c-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
           "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
         },
         {
-          "url": "https://www.sensitech.com/en/blog/blog-articles/blog-pharma-temp-monitoring-overview.html",
-          "urlHash": "e450ec4dae5eb8066bdeb1a5c53b30d79975b154",
-          "uuid": "e450ec4d-03-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/blog/blog-articles/blog-flu-vaccine-cold-chain.html",
-          "urlHash": "ebc9f1cada10eaa302e6c0475997afed55d2a4a5",
-          "uuid": "ebc9f1ca-57-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/blog/blog-articles/optimizing-supply-chain.html",
-          "urlHash": "f7825dc9034057904ec6623d2757d8be092ffb01",
-          "uuid": "f7825dc9-75-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/blog/blog-articles/blog-reefer-temp-monitoring-challenges.html",
-          "urlHash": "fc9e6695ef0a3abb07fc06cd3244b8cccd1b233b",
-          "uuid": "fc9e6695-03-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/blog/blog-articles/blog-thermal-mapping.html",
-          "urlHash": "ff555935acbdfed07556c0255a07fb9938abddb7",
-          "uuid": "ff555935-111-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "url": "https://www.sensitech.com/en/resources/news/news-article/2024-02-20-temptale-geo-x.html",
+          "urlHash": "f879c70942eb34e64fabf4aaf3c278d2b5eddd00",
+          "uuid": "f879c709-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
           "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
         }
       ]
@@ -4555,6 +4087,12 @@
           "xpath": "/html[1]/body[1]/main[1]/section[1]/section[1]"
         },
         {
+          "url": "https://www.sensitech.com/en/blog/",
+          "urlHash": "b21963ba34e677cbdf3c1571859648da2382bbf9",
+          "uuid": "b21963ba-05-7921eb44380d37f2db33b1a1e28686144aea85d0",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/section[1]"
+        },
+        {
           "url": "https://www.sensitech.com/en/support/",
           "urlHash": "b3d59f5c6219f123e40b58334d4d1aaa36b4f09b",
           "uuid": "b3d59f5c-14-58c873cadc75d201d74e50aa8c6ee40de33842f2",
@@ -4635,92 +4173,410 @@
       ]
     },
     {
-      "name": "Columns",
+      "name": "Hero",
       "cluster": 15,
       "instances": [
         {
-          "url": "https://www.sensitech.com/en/support/",
-          "urlHash": "b3d59f5c6219f123e40b58334d4d1aaa36b4f09b",
-          "uuid": "b3d59f5c-12-9d96d14c430608b4ff24df7bac23448379317de8",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[1]"
-        }
-      ]
-    },
-    {
-      "name": "Columns",
-      "cluster": 16,
-      "instances": [
+          "url": "https://www.sensitech.com/en/about-us/quality-certifications/",
+          "urlHash": "0122eee26ec5ecb7b5bf4fa04f7b8e72020b8645",
+          "uuid": "0122eee2-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/resources/white-papers/",
+          "urlHash": "05824bfc5597536165273a923472ade78c33485a",
+          "uuid": "05824bfc-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/resources/events/",
+          "urlHash": "07141ced0dd3c2943b1805e11c9149a04d804039",
+          "uuid": "07141ced-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/products/",
+          "urlHash": "0eb82a8c4fcb06110fec54789eed10d40b36345d",
+          "uuid": "0eb82a8c-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
         {
           "url": "https://www.sensitech.com/en/training/wendys/webinar",
           "urlHash": "0ee26924185c97468012cc5786f4c1a8569bfb68",
-          "uuid": "0ee26924-03-9125ff314aefc17364a00ffdd2c54a5dd0c25aea",
-          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[3]"
+          "uuid": "0ee26924-02-ca8712c1b8a873222ab45e96f65d719ac9cb297b",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/industries/",
+          "urlHash": "23a4a2d5e850964bf471e16ed67498ceefe1d2eb",
+          "uuid": "23a4a2d5-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/solutions/logistics-performance/",
+          "urlHash": "2f493b380de5af626d9c0c55b74ab1c25477dddd",
+          "uuid": "2f493b38-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
         },
         {
           "url": "https://www.sensitech.com/en/training/Subway/ipc-subway-2025-training-registration",
           "urlHash": "3c267d6b0e1d610f634709071a4e0548534cd5b9",
-          "uuid": "3c267d6b-03-9125ff314aefc17364a00ffdd2c54a5dd0c25aea",
-          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[3]"
+          "uuid": "3c267d6b-02-ca8712c1b8a873222ab45e96f65d719ac9cb297b",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/products/monitors/accessories/",
+          "urlHash": "3fd4134876d322e23c8d8105e86d76ec78a5e395",
+          "uuid": "3fd41348-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/solutions/lynx-logix/",
+          "urlHash": "42c2a136f81116106cb9ce7c4ff4cf551e2d2c7b",
+          "uuid": "42c2a136-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/solutions/",
+          "urlHash": "4c1b8569c518670594bd81352b54da46b6394542",
+          "uuid": "4c1b8569-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/solutions/cold-chain/",
+          "urlHash": "4de4817d24c8923e3fba4689bbd172a1c180e8ab",
+          "uuid": "4de4817d-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
         },
         {
           "url": "https://www.sensitech.com/en/training/wendys/wendys-dc-training",
           "urlHash": "4dea757115ce78314d8241ac71d4a419c76e1856",
-          "uuid": "4dea7571-03-9125ff314aefc17364a00ffdd2c54a5dd0c25aea",
-          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[3]"
+          "uuid": "4dea7571-02-ca8712c1b8a873222ab45e96f65d719ac9cb297b",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/solutions/life-sciences-real-time/",
+          "urlHash": "52951b5def3344c598bc3eb0237f6ddff7a9413d",
+          "uuid": "52951b5d-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/support/user-manuals/",
+          "urlHash": "536afca505d70d41824e65bdbf1cfcd93cdad976",
+          "uuid": "536afca5-02-ca8712c1b8a873222ab45e96f65d719ac9cb297b",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/support/faqs/",
+          "urlHash": "56900450ebf1d705ae8bc7fdcc77b97d30510d3c",
+          "uuid": "56900450-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/solutions/lynx-factor/",
+          "urlHash": "598c72eeb6039cc2b75613ebc829d576af62723e",
+          "uuid": "598c72ee-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
         },
         {
           "url": "https://www.sensitech.com/en/training/wegmans/wegmans-training-registration",
           "urlHash": "5e3cef9f562572fb2da12e38184ed0667fd9b8db",
-          "uuid": "5e3cef9f-03-9125ff314aefc17364a00ffdd2c54a5dd0c25aea",
-          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[3]"
+          "uuid": "5e3cef9f-02-ca8712c1b8a873222ab45e96f65d719ac9cb297b",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/products/stm/",
+          "urlHash": "5f520b33ba1e98fde2e915393d3226baffd63e3c",
+          "uuid": "5f520b33-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
         },
         {
           "url": "https://www.sensitech.com/en/training/wendys/wendys-2024-cold-chain-webinar-registration",
           "urlHash": "62c96bad4b65c801cdde0b4907e1dfdfe97b4f95",
-          "uuid": "62c96bad-03-9125ff314aefc17364a00ffdd2c54a5dd0c25aea",
-          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[3]"
+          "uuid": "62c96bad-02-ca8712c1b8a873222ab45e96f65d719ac9cb297b",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/resources/case-studies/",
+          "urlHash": "64513c32ca35439959808746f15ecf7fa0b4ee4c",
+          "uuid": "64513c32-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/sitemap/",
+          "urlHash": "6487ce6d6bb1762248ee63e34a903077aa44a647",
+          "uuid": "6487ce6d-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/sustainability/Takeback/",
+          "urlHash": "659c83ece83efc42f815e0061dc38cc3ece76f82",
+          "uuid": "659c83ec-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/about-us/",
+          "urlHash": "68ca4ec268bb519f542f345732b012c1cf4b206f",
+          "uuid": "68ca4ec2-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/products/sensiwatch-platform/",
+          "urlHash": "6b5f6d0e6ec03d5164251fa16746b013a8e9f2c9",
+          "uuid": "6b5f6d0e-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/resources/iata-regulatory-bulletins/",
+          "urlHash": "6fb71da9381def536c14c585083e772e04beefc7",
+          "uuid": "6fb71da9-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/legal/mark-ownership/",
+          "urlHash": "725b517e936771988b16f88300ef1574c913fad8",
+          "uuid": "725b517e-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/products/monitors/",
+          "urlHash": "74138c25340bb09f68bf54d17cc0329e0d1c0282",
+          "uuid": "74138c25-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/industries/consumer-industrial/",
+          "urlHash": "78a6bb0ee73c381741a7ff392f45ae0dda925bd2",
+          "uuid": "78a6bb0e-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
         },
         {
           "url": "https://www.sensitech.com/en/training/wendys/wendys-supplier-training",
           "urlHash": "7cef5ef1406d14de753c6fa270af37f2cec3d2b1",
-          "uuid": "7cef5ef1-03-9125ff314aefc17364a00ffdd2c54a5dd0c25aea",
-          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[3]"
+          "uuid": "7cef5ef1-02-ca8712c1b8a873222ab45e96f65d719ac9cb297b",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[2]"
         },
         {
           "url": "https://www.sensitech.com/en/training/dole/dole-training-registration",
           "urlHash": "8881425670516a29fa0b0a34af93e6b628d374a2",
-          "uuid": "88814256-03-9125ff314aefc17364a00ffdd2c54a5dd0c25aea",
-          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[3]"
+          "uuid": "88814256-02-ca8712c1b8a873222ab45e96f65d719ac9cb297b",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/products/monitors/scr/",
+          "urlHash": "91aab2217bf71606e32abf96ebf100b427932767",
+          "uuid": "91aab221-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/industries/life-sciences/",
+          "urlHash": "935537ba7f4371b2c2cda9b811000360b38c4e89",
+          "uuid": "935537ba-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/industries/food/",
+          "urlHash": "93cbbb630e9857c3aa42d6601a56df1ec641c271",
+          "uuid": "93cbbb63-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
         },
         {
           "url": "https://www.sensitech.com/en/brakebush/brakebush-training-registration",
           "urlHash": "9b6aa6304ad4cc809741947df800f22b946d34f0",
-          "uuid": "9b6aa630-03-9125ff314aefc17364a00ffdd2c54a5dd0c25aea",
-          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[3]"
+          "uuid": "9b6aa630-02-ca8712c1b8a873222ab45e96f65d719ac9cb297b",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/industries/life-sciences/clinical-trials/",
+          "urlHash": "9d71a334e62fd06070e830efe819a4f6f054bce5",
+          "uuid": "9d71a334-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/legal/terms-and-conditions/",
+          "urlHash": "9ddd5e09b119277eac35b124dd31ef336ad83e93",
+          "uuid": "9ddd5e09-01-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/resources/product-bulletins/",
+          "urlHash": "a766aaaa9f612302dce1a136f14a2ae8bcec3da5",
+          "uuid": "a766aaaa-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/blog/",
+          "urlHash": "b21963ba34e677cbdf3c1571859648da2382bbf9",
+          "uuid": "b21963ba-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/support/",
+          "urlHash": "b3d59f5c6219f123e40b58334d4d1aaa36b4f09b",
+          "uuid": "b3d59f5c-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
         },
         {
           "url": "https://www.sensitech.com/en/training/Subway/ipc-subway-training-registration",
           "urlHash": "b3f453e7397de993cf2b92f7ee58f2fb9af6be30",
-          "uuid": "b3f453e7-03-9125ff314aefc17364a00ffdd2c54a5dd0c25aea",
-          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[3]"
+          "uuid": "b3f453e7-02-ca8712c1b8a873222ab45e96f65d719ac9cb297b",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/legal/terms-of-use/",
+          "urlHash": "b584e1b00d98e817bb6a49f284a11a6ab26e427e",
+          "uuid": "b584e1b0-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/products/indicators/",
+          "urlHash": "b62ee38de157ffd7db40de8bc0f44e3c316ffaf4",
+          "uuid": "b62ee38d-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/resources/news/",
+          "urlHash": "bb24a3fb2eab1c1df880bd1ff9bc28bcb592ba64",
+          "uuid": "bb24a3fb-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/products/monitors/wireless/",
+          "urlHash": "bcbbe33d8117c1611d2191a25539b4bccded509e",
+          "uuid": "bcbbe33d-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/about-us/commitment-to-the-environment/",
+          "urlHash": "bf82129609a26fb409102199dab7cf67f3c7a9c7",
+          "uuid": "bf821296-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/products/software/",
+          "urlHash": "c056431535e3b14c67d3224a8d61714292c29b78",
+          "uuid": "c0564315-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/industries/life-sciences/life-sciences-solutions/",
+          "urlHash": "c082e72f7f635438045246adf887387ecb165be3",
+          "uuid": "c082e72f-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
         },
         {
           "url": "https://www.sensitech.com/en/yum-brands/yum-brands-training-registration",
           "urlHash": "c28a01a6d5ae3368a96f5b0c6b9d4c660c0fe70b",
-          "uuid": "c28a01a6-03-9125ff314aefc17364a00ffdd2c54a5dd0c25aea",
-          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[3]"
+          "uuid": "c28a01a6-02-ca8712c1b8a873222ab45e96f65d719ac9cb297b",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/sustainability/",
+          "urlHash": "c2e3c911af19be69773cfdba9b3a4751c320d9f5",
+          "uuid": "c2e3c911-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/industries/life-sciences/animal-health/",
+          "urlHash": "c3fc84c4064ce06bfd0197468bdc7686eee7e2bd",
+          "uuid": "c3fc84c4-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/products/monitors/realtime/",
+          "urlHash": "cade109a68e7aa0d247008ebc43f37c0f3e5c081",
+          "uuid": "cade109a-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
         },
         {
           "url": "https://www.sensitech.com/en/training/taylor-farms/taylor-farms-training-registration",
           "urlHash": "cef675721cf7765928e18caa0343bbb1a661ca73",
-          "uuid": "cef67572-03-9125ff314aefc17364a00ffdd2c54a5dd0c25aea",
-          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[3]"
+          "uuid": "cef67572-02-ca8712c1b8a873222ab45e96f65d719ac9cb297b",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/sustainability/Takeback/EMEA",
+          "urlHash": "d47a3118517f2ceb5df07ccf5a5c8f4f4a832301",
+          "uuid": "d47a3118-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/sustainability/Takeback/APAC",
+          "urlHash": "d64e7d40a9bcb2d158c8467cbaafd6328ebc2dab",
+          "uuid": "d64e7d40-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/industries/food/food-industry-solutions/",
+          "urlHash": "daf02343efa246d7e067a1179ace82d663e8a8b8",
+          "uuid": "daf02343-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/about-us/contact-us/",
+          "urlHash": "dc8531df2ca644badf926ab7d06b5e54bd677231",
+          "uuid": "dc8531df-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/solutions/cold-chain/validated-cold-chain/",
+          "urlHash": "debb22d2da00ea36e2c9f750b9af01e48d785d18",
+          "uuid": "debb22d2-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/legal/privacy-notice/",
+          "urlHash": "e24cd87ab2f3e03dd03b46c743176b6ce8392ab0",
+          "uuid": "e24cd87a-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/products/mobile/",
+          "urlHash": "f38bd3c2538cd4455bbddee793cec8571f0bad4c",
+          "uuid": "f38bd3c2-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/about-us/careers/",
+          "urlHash": "f42fb51e646f8a2d34133c815c57af32550c517a",
+          "uuid": "f42fb51e-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/products/monitors/conventional/",
+          "urlHash": "f4eb58af1bda0754b5f331a0dd43efdf08182db5",
+          "uuid": "f4eb58af-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/resources/real-time-software-access/",
+          "urlHash": "face1dacf7992e5457f76331459e4bde54c72520",
+          "uuid": "face1dac-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/resources/",
+          "urlHash": "fae53d24c9707deba29e4d66a903c8dccd1411ab",
+          "uuid": "fae53d24-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
         },
         {
           "url": "https://www.sensitech.com/en/training/wendys/wendys-2025-cold-chain-webinar-registration",
           "urlHash": "ff28cc126dd05d759e99c62d0190e5ef03a77dd6",
-          "uuid": "ff28cc12-03-9125ff314aefc17364a00ffdd2c54a5dd0c25aea",
-          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[3]"
+          "uuid": "ff28cc12-02-ca8712c1b8a873222ab45e96f65d719ac9cb297b",
+          "xpath": "/html[1]/body[1]/main[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 16,
+      "instances": [
+        {
+          "url": "https://www.sensitech.com/en/components/standard-components/cardcollection-w4-04",
+          "urlHash": "dc02e2f74220b0b8eb14d81c09fb0a5c1bf8f674",
+          "uuid": "dc02e2f7-04-657ce45e19c9e178f102ccc31069407ab1724ddd",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/section[1]/div[2]/div[2]/div[1]/div[1]"
         }
       ]
     },
@@ -4767,7 +4623,7 @@
       ]
     },
     {
-      "name": "Embed (video)",
+      "name": "Carousel",
       "cluster": 19,
       "instances": [
         {
@@ -5529,43 +5385,25 @@
       ]
     },
     {
-      "name": "Cards (no images)",
+      "name": "unknown",
       "cluster": 20,
       "instances": [
         {
-          "url": "https://www.sensitech.com/en/components/standard-components/cardcollection-w5-02",
-          "urlHash": "2c6f8b0322b373ccf47328486ccb486cab5be26b",
-          "uuid": "2c6f8b03-04-c5a8a27ea376e27211a5520a89d1c4b5f4d8d62c",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/section[1]/div[1]/div[2]/div[1]"
+          "url": "https://www.sensitech.com/en/industries/life-sciences/animal-health/",
+          "urlHash": "c3fc84c4064ce06bfd0197468bdc7686eee7e2bd",
+          "uuid": "c3fc84c4-12-de8063e878c77f34bbc5d55637552c324336ec46",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/article[1]"
         },
         {
-          "url": "https://www.sensitech.com/en/components/standard-components/cardcollection-w5-02",
-          "urlHash": "2c6f8b0322b373ccf47328486ccb486cab5be26b",
-          "uuid": "2c6f8b03-08-d82048e85603f40a9c963843446bd33f420ddc54",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/section[1]/div[1]/div[2]/div[3]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/components/standard-components/cardcollection-w5-02",
-          "urlHash": "2c6f8b0322b373ccf47328486ccb486cab5be26b",
-          "uuid": "2c6f8b03-10-deb4ac1a4a27efb0fa593c7f4719b6177e2eab7a",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/section[1]/div[1]/div[2]/div[4]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/components/standard-components/cardcollection-w5-02",
-          "urlHash": "2c6f8b0322b373ccf47328486ccb486cab5be26b",
-          "uuid": "2c6f8b03-12-f8b89a472fcd6cb03bf20e92e12e4f986bf0751a",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/section[1]/div[1]/div[2]/div[5]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/components/standard-components/cardcollection-w5-02",
-          "urlHash": "2c6f8b0322b373ccf47328486ccb486cab5be26b",
-          "uuid": "2c6f8b03-14-8a95cf5fbd7d54c7ef046e4e90356692cc92ab7e",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/section[1]/div[1]/div[2]/div[6]"
+          "url": "https://www.sensitech.com/en/about-us/contact-us/",
+          "urlHash": "dc8531df2ca644badf926ab7d06b5e54bd677231",
+          "uuid": "dc8531df-04-de8063e878c77f34bbc5d55637552c324336ec46",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/article[1]"
         }
       ]
     },
     {
-      "name": "Columns",
+      "name": "Carousel",
       "cluster": 21,
       "instances": [
         {
@@ -6597,7 +6435,7 @@
       ]
     },
     {
-      "name": "unknown",
+      "name": "Accordion",
       "cluster": 24,
       "instances": [
         {
@@ -6813,7 +6651,7 @@
       ]
     },
     {
-      "name": "Columns",
+      "name": "Hero",
       "cluster": 25,
       "instances": [
         {
@@ -6879,109 +6717,43 @@
       ]
     },
     {
-      "name": "unknown",
+      "name": "Cards (no images)",
       "cluster": 27,
       "instances": [
         {
-          "url": "https://www.sensitech.com/en/resources/news/news-article/2023-11-16-sensiwatch-platform.html",
-          "urlHash": "161a4e6828882ea3197aa6c0b5e6609398bb2205",
-          "uuid": "161a4e68-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+          "url": "https://www.sensitech.com/en/components/standard-components/cardcollection-w5-02",
+          "urlHash": "2c6f8b0322b373ccf47328486ccb486cab5be26b",
+          "uuid": "2c6f8b03-04-c5a8a27ea376e27211a5520a89d1c4b5f4d8d62c",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/section[1]/div[1]/div[2]/div[1]"
         },
         {
-          "url": "https://www.sensitech.com/en/resources/news/news-article/2025-04-07-sensitech-showcase-logipharma.html",
-          "urlHash": "1b47a9cf9c9a43e91832de7b255c231242d51740",
-          "uuid": "1b47a9cf-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+          "url": "https://www.sensitech.com/en/components/standard-components/cardcollection-w5-02",
+          "urlHash": "2c6f8b0322b373ccf47328486ccb486cab5be26b",
+          "uuid": "2c6f8b03-08-d82048e85603f40a9c963843446bd33f420ddc54",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/section[1]/div[1]/div[2]/div[3]"
         },
         {
-          "url": "https://www.sensitech.com/en/resources/news/news-article/2024-04-15-logipharma-eu.html",
-          "urlHash": "208997b7007f1c16f4c8a5e9583e54e219e931d1",
-          "uuid": "208997b7-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+          "url": "https://www.sensitech.com/en/components/standard-components/cardcollection-w5-02",
+          "urlHash": "2c6f8b0322b373ccf47328486ccb486cab5be26b",
+          "uuid": "2c6f8b03-10-deb4ac1a4a27efb0fa593c7f4719b6177e2eab7a",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/section[1]/div[1]/div[2]/div[4]"
         },
         {
-          "url": "https://www.sensitech.com/en/resources/news/news-article/2023-04-20-sensitech-attends-logipharma.html",
-          "urlHash": "4e1502ebc80ea16d3e889b24df3c3477ec698596",
-          "uuid": "4e1502eb-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+          "url": "https://www.sensitech.com/en/components/standard-components/cardcollection-w5-02",
+          "urlHash": "2c6f8b0322b373ccf47328486ccb486cab5be26b",
+          "uuid": "2c6f8b03-12-f8b89a472fcd6cb03bf20e92e12e4f986bf0751a",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/section[1]/div[1]/div[2]/div[5]"
         },
         {
-          "url": "https://www.sensitech.com/en/resources/news/news-article/2020_06_22_sensitech30_swplatform.html",
-          "urlHash": "5d810d210f6026e9aacbbac7ee547669a9ce5c57",
-          "uuid": "5d810d21-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/resources/news/news-article/2024-06-17-berlinger-acquisition.html",
-          "urlHash": "64b43d026944de92c0bbfc3a8c3b0371d7e1bac3",
-          "uuid": "64b43d02-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/resources/news/news-article/2024-10-17-sensitech-x-qualcomm.html",
-          "urlHash": "668df8d63e2c157e4183d9fc350bdbe2b286f8c9",
-          "uuid": "668df8d6-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/resources/news/news-article/2021_04_27-carrier-atrium-vaccine-distribution.html",
-          "urlHash": "8fddb351a716f43f7b0b9e34ffb2426baaba8b4f",
-          "uuid": "8fddb351-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/resources/news/news-article/2021_02_25-next-gen-iot-devices.html",
-          "urlHash": "acfea1192a8bb8d9a5625c99780fe0230548fff0",
-          "uuid": "acfea119-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/resources/news/news-article/2023-10-04-sensitech-unveils-lynx-logix.html",
-          "urlHash": "b413d8ec8b5b44cf5ad9a9b5d53c09516c1631e8",
-          "uuid": "b413d8ec-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/resources/news/news-article/2021-11-22-asia-vaccine-award.html",
-          "urlHash": "b9e8fdc4b0a8bbc19676542dccff9b2b42749435",
-          "uuid": "b9e8fdc4-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/resources/news/news-article/2025-03-18-carrier-launches-lynx-factor.html",
-          "urlHash": "bdff50bebf480352ec2d405667401f6bcb4a1527",
-          "uuid": "bdff50be-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/resources/news/news-article/2020_04_23_carrier_public.html",
-          "urlHash": "c8a341a65ddcb79fa4e2b297b231e2b64c337f4d",
-          "uuid": "c8a341a6-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/resources/news/news-article/2024-08-02-berlinger-acquisition-completion.html",
-          "urlHash": "d5b4242ab3b738c3e24b7768283e295c62b31b14",
-          "uuid": "d5b4242a-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/resources/news/news-article/2022-02-01-temptale-ultra-ble.html",
-          "urlHash": "f416c86cd7fb818f0a8808622e766bc6cfdafc07",
-          "uuid": "f416c86c-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
-        },
-        {
-          "url": "https://www.sensitech.com/en/resources/news/news-article/2024-02-20-temptale-geo-x.html",
-          "urlHash": "f879c70942eb34e64fabf4aaf3c278d2b5eddd00",
-          "uuid": "f879c709-02-7dbccb60880e2a7ec394deb885bfd047301c8d70",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+          "url": "https://www.sensitech.com/en/components/standard-components/cardcollection-w5-02",
+          "urlHash": "2c6f8b0322b373ccf47328486ccb486cab5be26b",
+          "uuid": "2c6f8b03-14-8a95cf5fbd7d54c7ef046e4e90356692cc92ab7e",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/section[1]/div[1]/div[2]/div[6]"
         }
       ]
     },
     {
-      "name": "Columns",
+      "name": "Cards",
       "cluster": 28,
       "instances": [
         {
@@ -7017,14 +6789,14 @@
       ]
     },
     {
-      "name": "Cards",
+      "name": "Columns",
       "cluster": 31,
       "instances": [
         {
-          "url": "https://www.sensitech.com/en/components/standard-components/cardcollection-w4-04",
-          "urlHash": "dc02e2f74220b0b8eb14d81c09fb0a5c1bf8f674",
-          "uuid": "dc02e2f7-04-657ce45e19c9e178f102ccc31069407ab1724ddd",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/section[1]/div[2]/div[2]/div[1]/div[1]"
+          "url": "https://www.sensitech.com/en/support/",
+          "urlHash": "b3d59f5c6219f123e40b58334d4d1aaa36b4f09b",
+          "uuid": "b3d59f5c-12-9d96d14c430608b4ff24df7bac23448379317de8",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[1]"
         }
       ]
     },
@@ -7089,7 +6861,7 @@
       ]
     },
     {
-      "name": "Columns",
+      "name": "unknown",
       "cluster": 37,
       "instances": [
         {
@@ -7101,7 +6873,7 @@
       ]
     },
     {
-      "name": "Columns",
+      "name": "Embed (video)",
       "cluster": 38,
       "instances": [
         {
@@ -7737,7 +7509,7 @@
         {
           "url": "https://www.sensitech.com/en/blog/",
           "urlHash": "b21963ba34e677cbdf3c1571859648da2382bbf9",
-          "uuid": "b21963ba-08-6e70765a003047818ea5700b557b8d01b43078df",
+          "uuid": "b21963ba-06-6e70765a003047818ea5700b557b8d01b43078df",
           "xpath": "/html[1]/body[1]/div[1]"
         },
         {
@@ -8265,7 +8037,7 @@
       ]
     },
     {
-      "name": "Hero",
+      "name": "Columns",
       "cluster": 47,
       "instances": [
         {
@@ -8283,7 +8055,7 @@
       ]
     },
     {
-      "name": "Cards",
+      "name": "Columns",
       "cluster": 48,
       "instances": [
         {
@@ -8295,25 +8067,259 @@
       ]
     },
     {
-      "name": "unknown",
+      "name": "Accordion",
       "cluster": 49,
       "instances": [
         {
-          "url": "https://www.sensitech.com/en/industries/life-sciences/animal-health/",
-          "urlHash": "c3fc84c4064ce06bfd0197468bdc7686eee7e2bd",
-          "uuid": "c3fc84c4-12-de8063e878c77f34bbc5d55637552c324336ec46",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/article[1]"
+          "url": "https://www.sensitech.com/en/blog/blog-articles/blog-ultimate-guide-cold-chain-monitoring.html",
+          "urlHash": "014025c0e85452b4ccbae99759e85e6f514120fa",
+          "uuid": "014025c0-03-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
         },
         {
-          "url": "https://www.sensitech.com/en/about-us/contact-us/",
-          "urlHash": "dc8531df2ca644badf926ab7d06b5e54bd677231",
-          "uuid": "dc8531df-04-de8063e878c77f34bbc5d55637552c324336ec46",
-          "xpath": "/html[1]/body[1]/main[1]/section[1]/article[1]"
+          "url": "https://www.sensitech.com/en/blog/blog-articles/blog-temp-controlled-med-storage-biomed-sppharma.html",
+          "urlHash": "2911072cbb118fb1543c680cc1ecd04fce784fe2",
+          "uuid": "2911072c-03-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/blog/blog-articles/blog-cold-chain-management-and-logistics.html",
+          "urlHash": "35a1ef8b4b80567fd0d12b4b6150692f37a84062",
+          "uuid": "35a1ef8b-03-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/solutions/cold-chain/",
+          "urlHash": "4de4817d24c8923e3fba4689bbd172a1c180e8ab",
+          "uuid": "4de4817d-08-474be417a286ce552ef939123281269c04801156",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[3]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/solutions/life-sciences-real-time/",
+          "urlHash": "52951b5def3344c598bc3eb0237f6ddff7a9413d",
+          "uuid": "52951b5d-15-474be417a286ce552ef939123281269c04801156",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[3]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/support/faqs/",
+          "urlHash": "56900450ebf1d705ae8bc7fdcc77b97d30510d3c",
+          "uuid": "56900450-04-474be417a286ce552ef939123281269c04801156",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[3]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/support/faqs/",
+          "urlHash": "56900450ebf1d705ae8bc7fdcc77b97d30510d3c",
+          "uuid": "56900450-05-bebd65132d35c7fb7b57b32caa8f13297a542ab6",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[4]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/support/faqs/",
+          "urlHash": "56900450ebf1d705ae8bc7fdcc77b97d30510d3c",
+          "uuid": "56900450-06-5f353c1950934019b57b03481213dbfe71d4eacd",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[5]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/support/faqs/",
+          "urlHash": "56900450ebf1d705ae8bc7fdcc77b97d30510d3c",
+          "uuid": "56900450-07-62b0b7b42bff411e93c0404e45ac63e4c68abd24",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[6]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/support/faqs/",
+          "urlHash": "56900450ebf1d705ae8bc7fdcc77b97d30510d3c",
+          "uuid": "56900450-08-b1f2454d5eda88b6e6e38e3a1bdbf79772bf62bc",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[7]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/support/faqs/",
+          "urlHash": "56900450ebf1d705ae8bc7fdcc77b97d30510d3c",
+          "uuid": "56900450-09-835623aee1bb594e2c6834cee3573c94ec339b70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[8]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/support/faqs/",
+          "urlHash": "56900450ebf1d705ae8bc7fdcc77b97d30510d3c",
+          "uuid": "56900450-10-edb38186160f8f1977b4b245db53fc9fdb9ae03b",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[9]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/support/faqs/",
+          "urlHash": "56900450ebf1d705ae8bc7fdcc77b97d30510d3c",
+          "uuid": "56900450-11-c5d27cbf346f3f8a0908cbef2ffdb44a7b24f88f",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[10]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/support/faqs/",
+          "urlHash": "56900450ebf1d705ae8bc7fdcc77b97d30510d3c",
+          "uuid": "56900450-12-7b1e5678a8181e4e48c3d25bf80ccc85b09c109e",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[11]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/support/faqs/",
+          "urlHash": "56900450ebf1d705ae8bc7fdcc77b97d30510d3c",
+          "uuid": "56900450-13-86272374f9780afebbed894b47831f8375305814",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[12]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/support/faqs/",
+          "urlHash": "56900450ebf1d705ae8bc7fdcc77b97d30510d3c",
+          "uuid": "56900450-14-acab9d5b7537545f97fca0eaeb5d1e1df00e9be1",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[13]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/support/faqs/",
+          "urlHash": "56900450ebf1d705ae8bc7fdcc77b97d30510d3c",
+          "uuid": "56900450-15-d8323ed2e9320f6e3244815c59b4938e67049f1d",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[14]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/support/faqs/",
+          "urlHash": "56900450ebf1d705ae8bc7fdcc77b97d30510d3c",
+          "uuid": "56900450-16-bcc20098cf78219b78adc8e25fcc9f8b559557b3",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[15]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/solutions/lynx-factor/",
+          "urlHash": "598c72eeb6039cc2b75613ebc829d576af62723e",
+          "uuid": "598c72ee-08-474be417a286ce552ef939123281269c04801156",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[3]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/blog/blog-articles/blog-ice-cream-sc-logistics.html",
+          "urlHash": "5c79d57253175aa420596037cda78400de43fa7d",
+          "uuid": "5c79d572-03-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/products/stm/",
+          "urlHash": "5f520b33ba1e98fde2e915393d3226baffd63e3c",
+          "uuid": "5f520b33-05-bebd65132d35c7fb7b57b32caa8f13297a542ab6",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[4]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/blog/blog-articles/blog-monitor-placement.html",
+          "urlHash": "69be7985f27c6b0da02883db7d7beb072d34126d",
+          "uuid": "69be7985-03-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/blog/blog-articles/blog-pharmaceutical-warehouse-requirements.html",
+          "urlHash": "6c8b754a89c5d4f64d9d2ef4c4b9d3755f027a92",
+          "uuid": "6c8b754a-03-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/blog/blog-articles/blog-how-to-ship-medicine-that-needs-refrigeration.html",
+          "urlHash": "72f68f94752919591b5e9f0988579d60314365d1",
+          "uuid": "72f68f94-03-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/products/monitors/",
+          "urlHash": "74138c25340bb09f68bf54d17cc0329e0d1c0282",
+          "uuid": "74138c25-06-bebd65132d35c7fb7b57b32caa8f13297a542ab6",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[4]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/blog/blog-articles/blog-real-time-visibility-in-the-supply-chain.html",
+          "urlHash": "74258080df23f1c571b676629f0127e5f3cf78d9",
+          "uuid": "74258080-03-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/industries/life-sciences/",
+          "urlHash": "935537ba7f4371b2c2cda9b811000360b38c4e89",
+          "uuid": "935537ba-12-bebd65132d35c7fb7b57b32caa8f13297a542ab6",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[4]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/industries/food/",
+          "urlHash": "93cbbb630e9857c3aa42d6601a56df1ec641c271",
+          "uuid": "93cbbb63-11-bebd65132d35c7fb7b57b32caa8f13297a542ab6",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[4]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/blog/blog-articles/blog-pharma-cold-chain-monitoring.html",
+          "urlHash": "98168bc529d616a4fbfd40b4de33c7ab27040fec",
+          "uuid": "98168bc5-03-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/blog/blog-articles/blog-seafood-transportation-guide.html",
+          "urlHash": "9e73eca39616f6bb0efafd3e8bc6e499f85c87bd",
+          "uuid": "9e73eca3-03-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/products/indicators/",
+          "urlHash": "b62ee38de157ffd7db40de8bc0f44e3c316ffaf4",
+          "uuid": "b62ee38d-05-bebd65132d35c7fb7b57b32caa8f13297a542ab6",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[4]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/blog/blog-articles/blog-four-steps-keeping-cold-chain-unbroken.html",
+          "urlHash": "bdf7b9a198d0f04267f5867ecb311c685146dc24",
+          "uuid": "bdf7b9a1-03-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/blog/blog-articles/blog-transporting-warehousing-chocolates.html",
+          "urlHash": "bf01c612f3b4959b84114ebcfa5ad5441e264b64",
+          "uuid": "bf01c612-03-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/blog/blog-articles/blog-usp-regs.html",
+          "urlHash": "d6e352a1f7273f1472bdc23bd6fa943b6f24768f",
+          "uuid": "d6e352a1-03-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/blog/blog-articles/blog-warehouse-temperature-mapping-study.html",
+          "urlHash": "dd273670bdc3ae1bed832dfebd02b8319b10a348",
+          "uuid": "dd273670-03-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/blog/blog-articles/blog-vaccine-storage-ultimate-guide.html",
+          "urlHash": "e40586635dfc323f362569d3d9a32fbb2a944af9",
+          "uuid": "e4058663-77-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/blog/blog-articles/blog-pharma-temp-monitoring-overview.html",
+          "urlHash": "e450ec4dae5eb8066bdeb1a5c53b30d79975b154",
+          "uuid": "e450ec4d-03-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/blog/blog-articles/blog-flu-vaccine-cold-chain.html",
+          "urlHash": "ebc9f1cada10eaa302e6c0475997afed55d2a4a5",
+          "uuid": "ebc9f1ca-57-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/blog/blog-articles/optimizing-supply-chain.html",
+          "urlHash": "f7825dc9034057904ec6623d2757d8be092ffb01",
+          "uuid": "f7825dc9-75-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/blog/blog-articles/blog-reefer-temp-monitoring-challenges.html",
+          "urlHash": "fc9e6695ef0a3abb07fc06cd3244b8cccd1b233b",
+          "uuid": "fc9e6695-03-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.sensitech.com/en/blog/blog-articles/blog-thermal-mapping.html",
+          "urlHash": "ff555935acbdfed07556c0255a07fb9938abddb7",
+          "uuid": "ff555935-111-7dbccb60880e2a7ec394deb885bfd047301c8d70",
+          "xpath": "/html[1]/body[1]/main[1]/section[1]/div[2]"
         }
       ]
     },
     {
-      "name": "Accordion",
+      "name": "Video",
       "cluster": 50,
       "instances": [
         {
@@ -10317,24 +10323,6 @@
       "urlHash": "b21963ba34e677cbdf3c1571859648da2382bbf9",
       "uuid": "b21963ba-03-de8063e878c77f34bbc5d55637552c324336ec46",
       "xpath": "/html[1]/body[1]/main[1]/section[1]/article[1]"
-    },
-    {
-      "url": "https://www.sensitech.com/en/blog/",
-      "urlHash": "b21963ba34e677cbdf3c1571859648da2382bbf9",
-      "uuid": "b21963ba-05-b13d231d632667a6281e8db31b97f08987694cb8",
-      "xpath": "/html[1]/body[1]/main[1]/section[1]/section[1]/div[1]/div[1]/div[1]"
-    },
-    {
-      "url": "https://www.sensitech.com/en/blog/",
-      "urlHash": "b21963ba34e677cbdf3c1571859648da2382bbf9",
-      "uuid": "b21963ba-06-eb953680f5bfdca7b381b30082b514205e20895d",
-      "xpath": "/html[1]/body[1]/main[1]/section[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/label[1]"
-    },
-    {
-      "url": "https://www.sensitech.com/en/blog/",
-      "urlHash": "b21963ba34e677cbdf3c1571859648da2382bbf9",
-      "uuid": "b21963ba-07-2c37ec030be62f8ca543e19a7f93106c15e7e547",
-      "xpath": "/html[1]/body[1]/main[1]/section[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
     },
     {
       "url": "https://www.sensitech.com/en/blog/blog-articles/blog-ultimate-guide-pharma-transport.html",
