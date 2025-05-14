@@ -321,144 +321,6 @@
       "id": "9b6aa6304ad4cc809741947df800f22b946d34f0"
     },
     {
-      "url": "https://www.sensitech.com/en/components/standard-components/accordion-group",
-      "source": "SITEMAPS",
-      "targetPath": "/en/components/standard-components/accordion-group",
-      "id": "97c05bf8bf6882148a8d90c0852c1852786fc7b9"
-    },
-    {
-      "url": "https://www.sensitech.com/en/components/standard-components/accordion-multiple",
-      "source": "SITEMAPS",
-      "targetPath": "/en/components/standard-components/accordion-multiple",
-      "id": "d790c1cf781e11e8d4d686c4d9c5d8cd54b144ad"
-    },
-    {
-      "url": "https://www.sensitech.com/en/components/standard-components/accordion-multiple-01",
-      "source": "SITEMAPS",
-      "targetPath": "/en/components/standard-components/accordion-multiple-01",
-      "id": "57a8e16c253d8ef667269a328d9f243d6e92f4a3"
-    },
-    {
-      "url": "https://www.sensitech.com/en/components/standard-components/accordion-single",
-      "source": "SITEMAPS",
-      "targetPath": "/en/components/standard-components/accordion-single",
-      "id": "ebb81e4c230a716a550c1688b2def3ddf1d349f5"
-    },
-    {
-      "url": "https://www.sensitech.com/en/components/standard-components/blks1-w100-01",
-      "source": "SITEMAPS",
-      "targetPath": "/en/components/standard-components/blks1-w100-01",
-      "id": "5b1de1ebd941882e8e052f9a12ee20c97fa411bb"
-    },
-    {
-      "url": "https://www.sensitech.com/en/components/standard-components/blks1-w100-05",
-      "source": "SITEMAPS",
-      "targetPath": "/en/components/standard-components/blks1-w100-05",
-      "id": "b74ecae9967cf3e5b4ea84e5d8c1797fc8b98b2c"
-    },
-    {
-      "url": "https://www.sensitech.com/en/components/standard-components/blks1-w100-06",
-      "source": "SITEMAPS",
-      "targetPath": "/en/components/standard-components/blks1-w100-06",
-      "id": "c2d6cae0757cb57d9bdd26f730a92c6bcb7d033d"
-    },
-    {
-      "url": "https://www.sensitech.com/en/components/standard-components/blks1-w100-07",
-      "source": "SITEMAPS",
-      "targetPath": "/en/components/standard-components/blks1-w100-07",
-      "id": "647f0abccb4af0616884048481a769f416ff7d9e"
-    },
-    {
-      "url": "https://www.sensitech.com/en/components/standard-components/blks1-w100-11",
-      "source": "SITEMAPS",
-      "targetPath": "/en/components/standard-components/blks1-w100-11",
-      "id": "ad5333383942a303fc8023e78634f8ae1fa262bc"
-    },
-    {
-      "url": "https://www.sensitech.com/en/components/standard-components/blks1-w100-13",
-      "source": "SITEMAPS",
-      "targetPath": "/en/components/standard-components/blks1-w100-13",
-      "id": "6248cac12e74c8a800b3ee91957dd37a8470e922"
-    },
-    {
-      "url": "https://www.sensitech.com/en/components/standard-components/block-01",
-      "source": "SITEMAPS",
-      "targetPath": "/en/components/standard-components/block-01",
-      "id": "3cbb2ef3de3c3c782a37f3e98b83ad8a277a3503"
-    },
-    {
-      "url": "https://www.sensitech.com/en/components/standard-components/cardcollection-w4-02",
-      "source": "SITEMAPS",
-      "targetPath": "/en/components/standard-components/cardcollection-w4-02",
-      "id": "558000953106eb3b0bf7a7adad7b5ae55c885489"
-    },
-    {
-      "url": "https://www.sensitech.com/en/components/standard-components/cardcollection-w4-03",
-      "source": "SITEMAPS",
-      "targetPath": "/en/components/standard-components/cardcollection-w4-03",
-      "id": "4c1cbf68a6131d0f27791d4965dc5487dd5cb24d"
-    },
-    {
-      "url": "https://www.sensitech.com/en/components/standard-components/cardcollection-w4-04",
-      "source": "SITEMAPS",
-      "targetPath": "/en/components/standard-components/cardcollection-w4-04",
-      "id": "dc02e2f74220b0b8eb14d81c09fb0a5c1bf8f674"
-    },
-    {
-      "url": "https://www.sensitech.com/en/components/standard-components/cardcollection-w4-05",
-      "source": "SITEMAPS",
-      "targetPath": "/en/components/standard-components/cardcollection-w4-05",
-      "id": "73c45b262c638d2b914cd7265309dcd93f4ce2ec"
-    },
-    {
-      "url": "https://www.sensitech.com/en/components/standard-components/cardcollection-w4-06",
-      "source": "SITEMAPS",
-      "targetPath": "/en/components/standard-components/cardcollection-w4-06",
-      "id": "8a2bdd739355fe855af132faaf66c3e84f6d0199"
-    },
-    {
-      "url": "https://www.sensitech.com/en/components/standard-components/cardcollection-w4-07",
-      "source": "SITEMAPS",
-      "targetPath": "/en/components/standard-components/cardcollection-w4-07",
-      "id": "6d9281c9c849f5c25a8d9ca379ebc6d59a152e9f"
-    },
-    {
-      "url": "https://www.sensitech.com/en/components/standard-components/cardcollection-w4-08",
-      "source": "SITEMAPS",
-      "targetPath": "/en/components/standard-components/cardcollection-w4-08",
-      "id": "5cb6a631f11eeb1719aa82d7a0814f825b8e7322"
-    },
-    {
-      "url": "https://www.sensitech.com/en/components/standard-components/cardcollection-w4-09",
-      "source": "SITEMAPS",
-      "targetPath": "/en/components/standard-components/cardcollection-w4-09",
-      "id": "6b1f076cf107361c96f5c1554145124360020e84"
-    },
-    {
-      "url": "https://www.sensitech.com/en/components/standard-components/cardcollection-w4-animation",
-      "source": "SITEMAPS",
-      "targetPath": "/en/components/standard-components/cardcollection-w4-animation",
-      "id": "14f3762e311faed622e7804efcf0b371182feede"
-    },
-    {
-      "url": "https://www.sensitech.com/en/components/standard-components/cardcollection-w5-01",
-      "source": "SITEMAPS",
-      "targetPath": "/en/components/standard-components/cardcollection-w5-01",
-      "id": "a78ead6371f9160514c43b5cdb0cef8ab7670b4e"
-    },
-    {
-      "url": "https://www.sensitech.com/en/components/standard-components/cardcollection-w5-02",
-      "source": "SITEMAPS",
-      "targetPath": "/en/components/standard-components/cardcollection-w5-02",
-      "id": "2c6f8b0322b373ccf47328486ccb486cab5be26b"
-    },
-    {
-      "url": "https://www.sensitech.com/en/components/standard-components/cardcollection-w5-03",
-      "source": "SITEMAPS",
-      "targetPath": "/en/components/standard-components/cardcollection-w5-03",
-      "id": "6c3d03bb32d51aba9674cdcc936b7536d545b74a"
-    },
-    {
       "url": "https://www.sensitech.com/en/industries/",
       "source": "SITEMAPS",
       "targetPath": "/en/industries",
@@ -5815,6 +5677,190 @@
       "id": "6743cff977844604a23dd81b8d9c724d08837c1f",
       "status": "skipped",
       "reason": "end up in 404 page"
+    },
+    {
+      "url": "https://www.sensitech.com/en/components/standard-components/accordion-group",
+      "source": "SITEMAPS",
+      "targetPath": "/en/components/standard-components/accordion-group",
+      "id": "97c05bf8bf6882148a8d90c0852c1852786fc7b9",
+      "status": "skipped",
+      "reason": "looks like a page dedicated to showcase web components"
+    },
+    {
+      "url": "https://www.sensitech.com/en/components/standard-components/accordion-multiple",
+      "source": "SITEMAPS",
+      "targetPath": "/en/components/standard-components/accordion-multiple",
+      "id": "d790c1cf781e11e8d4d686c4d9c5d8cd54b144ad",
+      "status": "skipped",
+      "reason": "looks like a page dedicated to showcase web components"
+    },
+    {
+      "url": "https://www.sensitech.com/en/components/standard-components/accordion-multiple-01",
+      "source": "SITEMAPS",
+      "targetPath": "/en/components/standard-components/accordion-multiple-01",
+      "id": "57a8e16c253d8ef667269a328d9f243d6e92f4a3",
+      "status": "skipped",
+      "reason": "looks like a page dedicated to showcase web components"
+    },
+    {
+      "url": "https://www.sensitech.com/en/components/standard-components/accordion-single",
+      "source": "SITEMAPS",
+      "targetPath": "/en/components/standard-components/accordion-single",
+      "id": "ebb81e4c230a716a550c1688b2def3ddf1d349f5",
+      "status": "skipped",
+      "reason": "looks like a page dedicated to showcase web components"
+    },
+    {
+      "url": "https://www.sensitech.com/en/components/standard-components/blks1-w100-01",
+      "source": "SITEMAPS",
+      "targetPath": "/en/components/standard-components/blks1-w100-01",
+      "id": "5b1de1ebd941882e8e052f9a12ee20c97fa411bb",
+      "status": "skipped",
+      "reason": "looks like a page dedicated to showcase web components"
+    },
+    {
+      "url": "https://www.sensitech.com/en/components/standard-components/blks1-w100-05",
+      "source": "SITEMAPS",
+      "targetPath": "/en/components/standard-components/blks1-w100-05",
+      "id": "b74ecae9967cf3e5b4ea84e5d8c1797fc8b98b2c",
+      "status": "skipped",
+      "reason": "looks like a page dedicated to showcase web components"
+    },
+    {
+      "url": "https://www.sensitech.com/en/components/standard-components/blks1-w100-06",
+      "source": "SITEMAPS",
+      "targetPath": "/en/components/standard-components/blks1-w100-06",
+      "id": "c2d6cae0757cb57d9bdd26f730a92c6bcb7d033d",
+      "status": "skipped",
+      "reason": "looks like a page dedicated to showcase web components"
+    },
+    {
+      "url": "https://www.sensitech.com/en/components/standard-components/blks1-w100-07",
+      "source": "SITEMAPS",
+      "targetPath": "/en/components/standard-components/blks1-w100-07",
+      "id": "647f0abccb4af0616884048481a769f416ff7d9e",
+      "status": "skipped",
+      "reason": "looks like a page dedicated to showcase web components"
+    },
+    {
+      "url": "https://www.sensitech.com/en/components/standard-components/blks1-w100-11",
+      "source": "SITEMAPS",
+      "targetPath": "/en/components/standard-components/blks1-w100-11",
+      "id": "ad5333383942a303fc8023e78634f8ae1fa262bc",
+      "status": "skipped",
+      "reason": "looks like a page dedicated to showcase web components"
+    },
+    {
+      "url": "https://www.sensitech.com/en/components/standard-components/blks1-w100-13",
+      "source": "SITEMAPS",
+      "targetPath": "/en/components/standard-components/blks1-w100-13",
+      "id": "6248cac12e74c8a800b3ee91957dd37a8470e922",
+      "status": "skipped",
+      "reason": "looks like a page dedicated to showcase web components"
+    },
+    {
+      "url": "https://www.sensitech.com/en/components/standard-components/block-01",
+      "source": "SITEMAPS",
+      "targetPath": "/en/components/standard-components/block-01",
+      "id": "3cbb2ef3de3c3c782a37f3e98b83ad8a277a3503",
+      "status": "skipped",
+      "reason": "looks like a page dedicated to showcase web components"
+    },
+    {
+      "url": "https://www.sensitech.com/en/components/standard-components/cardcollection-w4-02",
+      "source": "SITEMAPS",
+      "targetPath": "/en/components/standard-components/cardcollection-w4-02",
+      "id": "558000953106eb3b0bf7a7adad7b5ae55c885489",
+      "status": "skipped",
+      "reason": "looks like a page dedicated to showcase web components"
+    },
+    {
+      "url": "https://www.sensitech.com/en/components/standard-components/cardcollection-w4-03",
+      "source": "SITEMAPS",
+      "targetPath": "/en/components/standard-components/cardcollection-w4-03",
+      "id": "4c1cbf68a6131d0f27791d4965dc5487dd5cb24d",
+      "status": "skipped",
+      "reason": "looks like a page dedicated to showcase web components"
+    },
+    {
+      "url": "https://www.sensitech.com/en/components/standard-components/cardcollection-w4-04",
+      "source": "SITEMAPS",
+      "targetPath": "/en/components/standard-components/cardcollection-w4-04",
+      "id": "dc02e2f74220b0b8eb14d81c09fb0a5c1bf8f674",
+      "status": "skipped",
+      "reason": "looks like a page dedicated to showcase web components"
+    },
+    {
+      "url": "https://www.sensitech.com/en/components/standard-components/cardcollection-w4-05",
+      "source": "SITEMAPS",
+      "targetPath": "/en/components/standard-components/cardcollection-w4-05",
+      "id": "73c45b262c638d2b914cd7265309dcd93f4ce2ec",
+      "status": "skipped",
+      "reason": "looks like a page dedicated to showcase web components"
+    },
+    {
+      "url": "https://www.sensitech.com/en/components/standard-components/cardcollection-w4-06",
+      "source": "SITEMAPS",
+      "targetPath": "/en/components/standard-components/cardcollection-w4-06",
+      "id": "8a2bdd739355fe855af132faaf66c3e84f6d0199",
+      "status": "skipped",
+      "reason": "looks like a page dedicated to showcase web components"
+    },
+    {
+      "url": "https://www.sensitech.com/en/components/standard-components/cardcollection-w4-07",
+      "source": "SITEMAPS",
+      "targetPath": "/en/components/standard-components/cardcollection-w4-07",
+      "id": "6d9281c9c849f5c25a8d9ca379ebc6d59a152e9f",
+      "status": "skipped",
+      "reason": "looks like a page dedicated to showcase web components"
+    },
+    {
+      "url": "https://www.sensitech.com/en/components/standard-components/cardcollection-w4-08",
+      "source": "SITEMAPS",
+      "targetPath": "/en/components/standard-components/cardcollection-w4-08",
+      "id": "5cb6a631f11eeb1719aa82d7a0814f825b8e7322",
+      "status": "skipped",
+      "reason": "looks like a page dedicated to showcase web components"
+    },
+    {
+      "url": "https://www.sensitech.com/en/components/standard-components/cardcollection-w4-09",
+      "source": "SITEMAPS",
+      "targetPath": "/en/components/standard-components/cardcollection-w4-09",
+      "id": "6b1f076cf107361c96f5c1554145124360020e84",
+      "status": "skipped",
+      "reason": "looks like a page dedicated to showcase web components"
+    },
+    {
+      "url": "https://www.sensitech.com/en/components/standard-components/cardcollection-w4-animation",
+      "source": "SITEMAPS",
+      "targetPath": "/en/components/standard-components/cardcollection-w4-animation",
+      "id": "14f3762e311faed622e7804efcf0b371182feede",
+      "status": "skipped",
+      "reason": "looks like a page dedicated to showcase web components"
+    },
+    {
+      "url": "https://www.sensitech.com/en/components/standard-components/cardcollection-w5-01",
+      "source": "SITEMAPS",
+      "targetPath": "/en/components/standard-components/cardcollection-w5-01",
+      "id": "a78ead6371f9160514c43b5cdb0cef8ab7670b4e",
+      "status": "skipped",
+      "reason": "looks like a page dedicated to showcase web components"
+    },
+    {
+      "url": "https://www.sensitech.com/en/components/standard-components/cardcollection-w5-02",
+      "source": "SITEMAPS",
+      "targetPath": "/en/components/standard-components/cardcollection-w5-02",
+      "id": "2c6f8b0322b373ccf47328486ccb486cab5be26b",
+      "status": "skipped",
+      "reason": "looks like a page dedicated to showcase web components"
+    },
+    {
+      "url": "https://www.sensitech.com/en/components/standard-components/cardcollection-w5-03",
+      "source": "SITEMAPS",
+      "targetPath": "/en/components/standard-components/cardcollection-w5-03",
+      "id": "6c3d03bb32d51aba9674cdcc936b7536d545b74a",
+      "status": "skipped",
+      "reason": "looks like a page dedicated to showcase web components"
     }
   ]
 }
