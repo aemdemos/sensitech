@@ -1,22 +1,18 @@
 {
-  "name": "sta-extract-mountpoint",
+  "name": "sta-sharepoint-move-to-backup",
   "version": "1.0.0",
   "type": "module",
-  "main": "sta-mountpoint.js",
+  "main": "sta-sp-move-to-backup.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint .",
     "lint:fix": "eslint --fix ."
   },
-  "keywords": [
-    "STA",
-    "Experience Catalyst",
-    "Mountpoint"
-  ],
+  "keywords": ["STA", "Experience Catalyst", "SharePoint", "move", "backup"],
   "author": "Experience Catalyst",
   "license": "ISC",
-  "description": "Parse the mountpoint and type and validate it.",
+  "description": "Move SharePoint content to a backup folder via Graph API",
   "dependencies": {
     "@actions/core": "^1.11.1"
   }
-}
+} 

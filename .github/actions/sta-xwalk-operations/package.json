@@ -1,22 +1,19 @@
 {
-  "name": "sta-extract-mountpoint",
+  "name": "sta-xwalk-operations-action",
   "version": "1.0.0",
   "type": "module",
-  "main": "sta-mountpoint.js",
+  "main": "sta-xwalk-operations.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint .",
     "lint:fix": "eslint --fix ."
   },
-  "keywords": [
-    "STA",
-    "Experience Catalyst",
-    "Mountpoint"
-  ],
+  "keywords": ["STA", "Experience Catalyst", "Xwalk operations"],
   "author": "Experience Catalyst",
   "license": "ISC",
-  "description": "Parse the mountpoint and type and validate it.",
+  "description": "Operations specific to XWalk",
   "dependencies": {
-    "@actions/core": "^1.11.1"
+    "@actions/core": "^1.11.1",
+    "unzipper": "^0.12.3"
   }
 }
