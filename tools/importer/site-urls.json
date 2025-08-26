@@ -495,12 +495,6 @@
       "id": "bb24a3fb2eab1c1df880bd1ff9bc28bcb592ba64"
     },
     {
-      "url": "https://www.sensitech.com/en/resources/news/news-article/",
-      "source": "SITEMAPS",
-      "targetPath": "/en/resources/news/news-article",
-      "id": "45f637765a9a6dabfe51a55ca80203784b9af6c9"
-    },
-    {
       "url": "https://www.sensitech.com/en/resources/news/news-article/2020_04_23_carrier_public.html",
       "source": "SITEMAPS",
       "targetPath": "/en/resources/news/news-article/2020-04-23-carrier-public",
@@ -5861,6 +5855,14 @@
       "id": "6c3d03bb32d51aba9674cdcc936b7536d545b74a",
       "status": "skipped",
       "reason": "looks like a page dedicated to showcase web components"
+    },
+    {
+      "url": "https://www.sensitech.com/en/resources/news/news-article/",
+      "source": "SITEMAPS",
+      "targetPath": "/en/resources/news/news-article",
+      "id": "45f637765a9a6dabfe51a55ca80203784b9af6c9",
+      "status": "error",
+      "reason": "404 - Not Found"
     }
   ]
 }
